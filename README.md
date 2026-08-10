@@ -61,6 +61,15 @@ primary-score instances: 884
 
 No model-serving code, credentials, machine-specific configuration, run logs, paper sources, or leaderboard outputs are included in this artifact.
 
+## Integrated Evaluation
+
+A ready-to-run [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+task pack is included in `integrations/lmms_eval/c4_bench`. It exposes the
+four-task 884-instance primary score as `c4_bench` and the explanation task as
+`c4_bench_e1`, while preserving the published prompts and official answer
+parser. See the [integration guide](integrations/lmms_eval/c4_bench/README.md)
+for the command and protocol details.
+
 ## Load the Evaluation Set
 
 ```python
