@@ -1,0 +1,222 @@
+[
+  {
+    "item_id": "syn_l4_95c5d4f510b0",
+    "manual_prompt_scene": "婚宴桌旁，一位大爷给岳母递茶，桌上摆着喜糖",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_ceaeebe73614",
+    "manual_prompt_scene": "一只狗从打开的衣柜里跳出，把地上的小积木全撞倒",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_a5c9d5a1d3c7",
+    "manual_prompt_scene": "一只熊举着李白名牌，学着画像里的人皱眉",
+    "review_notes": "需要名牌辅助识别李白。"
+  },
+  {
+    "item_id": "syn_l4_8c8ea6643677",
+    "manual_prompt_scene": "井底伸出一根手指，指尖顶着一瓶娃哈哈饮料",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_0b4eed7a33c5",
+    "manual_prompt_scene": "浅浅交叉的两条线旁，墨水瓶流出的墨迹画成云端天庭",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_394c77faf92f",
+    "manual_prompt_scene": "仓颉名牌人物抓着一条长尾巴，从墙洞里偷走一束光",
+    "review_notes": "需要名牌辅助识别仓颉。"
+  },
+  {
+    "item_id": "syn_l4_5850e91f8971",
+    "manual_prompt_scene": "庭院里摆着热气腾腾的火锅，旁边临时医院帐篷正在接诊",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_26cf87aa69ce",
+    "manual_prompt_scene": "分岔路口站着关胜名牌人物，抬手扬起一座小华表模型",
+    "review_notes": "需要名牌辅助识别关胜。"
+  },
+  {
+    "item_id": "syn_l4_712636c563f9",
+    "manual_prompt_scene": "电影片场里，一张带轮子的床在地上压出清楚车辙",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_8b25fb23fdaf",
+    "manual_prompt_scene": "火车餐车里端着一碗卤煮，旁边摆着胆囊形状的模型",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_96d712b0ba4d",
+    "manual_prompt_scene": "医院病房里，演员把一把玩具剑贴在肚子前摆姿势",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_16909342b7ed",
+    "manual_prompt_scene": "摊开的书页上，一位公爵对东海地图竖起大拇指",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_2f89c8ec004a",
+    "manual_prompt_scene": "国王涂着口红，张嘴露出冷得发抖的牙齿",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_2ef03165be63",
+    "manual_prompt_scene": "唐僧名牌人物拿着孔雀羽毛，把调色盘调成鲜艳颜色",
+    "review_notes": "需要名牌辅助识别唐僧。"
+  },
+  {
+    "item_id": "syn_l4_0ab2c81445ce",
+    "manual_prompt_scene": "天空垂下大网，萧炎名牌人物牵着一只小狗站在网边",
+    "review_notes": "需要名牌辅助识别萧炎。"
+  },
+  {
+    "item_id": "syn_l4_caa7e82f46dc",
+    "manual_prompt_scene": "低眉顺眼的脸旁，匹诺曹用长鼻子碰着奶茶吸管",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_04cdb2a64a4d",
+    "manual_prompt_scene": "写着减肥计划的竹笋坐在树桩旁，安静等兔子出现",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_e93383564861",
+    "manual_prompt_scene": "寺庙台阶上，一个穿汉服的人正在低头整理衣襟",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_9de77ea513dd",
+    "manual_prompt_scene": "国王把牛奶倒进星形模具，桌上摆着皇冠和勺子",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_f560004e399e",
+    "manual_prompt_scene": "受惊的公鸡站在婴儿摇篮旁，羽毛炸起，摇篮轻轻晃动",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_8dc2d5faee15",
+    "manual_prompt_scene": "交警站在马厩前，给牵马的马夫指路",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_cf9cc14379f0",
+    "manual_prompt_scene": "毛驴把一件婚纱轻轻顶到假人肚子前",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_d146da340176",
+    "manual_prompt_scene": "戴眼镜的大耳朵参加晚会，手里摇着一只小铃铛",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_23f9c94c83d3",
+    "manual_prompt_scene": "一张床上摆着权杖和印章，旁边人物举杯欢笑",
+    "review_notes": "用权杖和印章表示权势。"
+  },
+  {
+    "item_id": "syn_l4_aabb978fd51f",
+    "manual_prompt_scene": "傍晚天空下，唐僧名牌人物拿着举报信指向数字4",
+    "review_notes": "需要名牌辅助识别唐僧。"
+  },
+  {
+    "item_id": "syn_l4_586257711a0f",
+    "manual_prompt_scene": "冠军领奖台上，后羿名牌人物拉弓瞄准墙上的蛇影",
+    "review_notes": "需要名牌辅助识别后羿。"
+  },
+  {
+    "item_id": "syn_l4_3b128f13c664",
+    "manual_prompt_scene": "公主在厨房里给调料罐贴姓名牌，刀具整齐挂在墙上",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_c627d90a0972",
+    "manual_prompt_scene": "毛遂名牌人物背着字典，向剑客递出推荐信",
+    "review_notes": "需要名牌辅助识别毛遂。"
+  },
+  {
+    "item_id": "syn_l4_40ce83651887",
+    "manual_prompt_scene": "孔雀戴上猫耳头箍，挤进猫窝里凑数",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_c28b4bc674df",
+    "manual_prompt_scene": "湖边渔船上站着戴墨镜的保镖，正守着船舱门",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_5cd77ea4ad14",
+    "manual_prompt_scene": "王濛名牌运动员坐在冰场长椅上，正在给手机充电",
+    "review_notes": "需要名牌辅助识别王濛。"
+  },
+  {
+    "item_id": "syn_l4_822b24a02076",
+    "manual_prompt_scene": "雪地里立着一张写满代码的纸，旁边门上贴着年画",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_dad63793e939",
+    "manual_prompt_scene": "冬天雪地里，曹操名牌人物低头衔着一个圆环",
+    "review_notes": "需要名牌辅助识别曹操。"
+  },
+  {
+    "item_id": "syn_l4_ee3aeafffa98",
+    "manual_prompt_scene": "宴会桌边，一只企鹅翻开厚书给宾客展示",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_7b56b5052c7f",
+    "manual_prompt_scene": "一面盾牌前摆着茅台酒瓶，手机架在旁边正在自拍",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_8f1d267734e8",
+    "manual_prompt_scene": "一本书旁放着竹笋，砚台里的墨水微微溢出",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_c0220351d905",
+    "manual_prompt_scene": "三国战旗旁，一排和尚都戴上士兵头盔",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_c0cf61b69d91",
+    "manual_prompt_scene": "苍蝇贴在火山斜坡上，顺着熔岩坡慢慢下滑",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_9881c1fa8440",
+    "manual_prompt_scene": "作家举起可乐瓶，汽泡从瓶口向上扬起",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_3f8b08ea932d",
+    "manual_prompt_scene": "门口小亭里坐着亭长，正在给一副眼镜擦镜片",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_cc488a9128e5",
+    "manual_prompt_scene": "作家站在乐队前，跟着鼓点起身跳舞",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_41143e9a7c9c",
+    "manual_prompt_scene": "火锅店门口，剑客护着一块写“扈”字的门牌",
+    "review_notes": "用门牌文字表现“扈”。"
+  },
+  {
+    "item_id": "syn_l4_25deebba75ab",
+    "manual_prompt_scene": "戴笨蛋帽的小人把自己混进一筐竹笋里",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l4_2fea87d2940b",
+    "manual_prompt_scene": "南极冰面上，哪吒名牌人物把彩色路标搅成一团",
+    "review_notes": "需要名牌辅助识别哪吒；用混乱路标表现“淆”。"
+  }
+]

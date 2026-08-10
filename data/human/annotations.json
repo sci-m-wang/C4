@@ -1,0 +1,2911 @@
+[
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0001",
+    "origin": "human",
+    "file_name": "叹为观止.jpg",
+    "image_file": "data/human/images/叹为观止.jpg",
+    "gold_idiom": "叹为观止",
+    "simple_rationale": "叹气被观音制止了，所以是叹为（有被的意思）观（音）止",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "人物在叹气"
+      },
+      {
+        "id": "P2",
+        "content": "观音形象制止叹气者"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "叹气",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "叹",
+        "gold_bridge_path": [
+          "叹气",
+          "叹"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "观音",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "观",
+        "gold_bridge_path": [
+          "观音",
+          "观"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "制止动作",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "止",
+        "gold_bridge_path": [
+          "制止",
+          "止"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "叹",
+        "mapped_from": "叹气 -> 叹"
+      },
+      {
+        "idiom_part": "观",
+        "mapped_from": "观音 -> 观"
+      },
+      {
+        "idiom_part": "止",
+        "mapped_from": "制止 -> 止"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0002",
+    "origin": "human",
+    "file_name": "头头是道.jpg",
+    "image_file": "data/human/images/头头是道.jpg",
+    "gold_idiom": "头头是道",
+    "simple_rationale": "几个人认道士为老大，老大就是头头，所以头头是道",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "几个人认某个角色为老大"
+      },
+      {
+        "id": "P2",
+        "content": "中间角色是道士形象"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "老大",
+        "acceptable_intermediate_concepts": [
+          "头头"
+        ],
+        "target_idiom_part": "头头",
+        "gold_bridge_path": [
+          "老大",
+          "头头"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "道士",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "道",
+        "gold_bridge_path": [
+          "道士",
+          "道"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "头头",
+        "mapped_from": "老大 -> 头头"
+      },
+      {
+        "idiom_part": "道",
+        "mapped_from": "道士 -> 道"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0003",
+    "origin": "human",
+    "file_name": "拖泥带水.jpg",
+    "image_file": "data/human/images/拖泥带水.jpg",
+    "gold_idiom": "拖泥带水",
+    "simple_rationale": "钢铁侠是托尼斯塔克，他帮人带了一瓶水来，所以是拖泥带水（托尼带水）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "图中出现钢铁侠 / 托尼斯塔克"
+      },
+      {
+        "id": "P2",
+        "content": "钢铁侠帮人带来一瓶水"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "托尼斯塔克",
+        "acceptable_intermediate_concepts": [
+          "托尼",
+          "Tony"
+        ],
+        "target_idiom_part": "拖泥",
+        "gold_bridge_path": [
+          "托尼斯塔克",
+          "托尼",
+          "拖泥"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "带水",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "带水",
+        "gold_bridge_path": [
+          "带水",
+          "带水"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "拖泥",
+        "mapped_from": "托尼斯塔克 -> 托尼 -> 拖泥"
+      },
+      {
+        "idiom_part": "带水",
+        "mapped_from": "带水 -> 带水"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0004",
+    "origin": "human",
+    "file_name": "纹丝不动.jpg",
+    "image_file": "data/human/images/纹丝不动.jpg",
+    "gold_idiom": "纹丝不动",
+    "simple_rationale": "蚊子和螺丝钉被人拿枪指着，不敢动，所以是纹丝不动",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "图中有蚊子"
+      },
+      {
+        "id": "P2",
+        "content": "图中有螺丝钉"
+      },
+      {
+        "id": "P3",
+        "content": "蚊子和螺丝钉被枪指着而不敢动"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "蚊子",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "纹",
+        "gold_bridge_path": [
+          "蚊子",
+          "纹"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "螺丝钉",
+        "acceptable_intermediate_concepts": [
+          "丝"
+        ],
+        "target_idiom_part": "丝",
+        "gold_bridge_path": [
+          "螺丝",
+          "丝"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "不敢动",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "不动",
+        "gold_bridge_path": [
+          "不敢动",
+          "不动"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "纹",
+        "mapped_from": "蚊子 -> 纹"
+      },
+      {
+        "idiom_part": "丝",
+        "mapped_from": "螺丝 -> 丝"
+      },
+      {
+        "idiom_part": "不动",
+        "mapped_from": "不敢动 -> 不动"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0005",
+    "origin": "human",
+    "file_name": "小鸟依人.jpg",
+    "image_file": "data/human/images/小鸟依人.jpg",
+    "gold_idiom": "小鸟依人",
+    "simple_rationale": "小鸟当医生给人开药，还说明了吃法，所以是小鸟依（医）人",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "小鸟在给人看病"
+      },
+      {
+        "id": "P2",
+        "content": "小鸟像医生一样开药并说明吃法"
+      },
+      {
+        "id": "P3",
+        "content": "图中有人作为病人"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "小鸟",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "小鸟",
+        "gold_bridge_path": [
+          "小鸟",
+          "小鸟"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "医生",
+        "acceptable_intermediate_concepts": [
+          "医"
+        ],
+        "target_idiom_part": "依",
+        "gold_bridge_path": [
+          "医生",
+          "医",
+          "依"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "人",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "人",
+        "gold_bridge_path": [
+          "人",
+          "人"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "小鸟",
+        "mapped_from": "小鸟 -> 小鸟"
+      },
+      {
+        "idiom_part": "依",
+        "mapped_from": "医生 -> 医 -> 依"
+      },
+      {
+        "idiom_part": "人",
+        "mapped_from": "人 -> 人"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0006",
+    "origin": "human",
+    "file_name": "孜孜不倦.jpg",
+    "image_file": "data/human/images/孜孜不倦.jpg",
+    "gold_idiom": "孜孜不倦",
+    "simple_rationale": "一个人很困，另一个人拿水枪喷（滋）了他一下，他就精神了，所以是孜孜（滋滋）不倦",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人很困"
+      },
+      {
+        "id": "P2",
+        "content": "另一个人用水枪喷水"
+      },
+      {
+        "id": "P3",
+        "content": "被喷水后变精神不困了"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "喷水声",
+        "acceptable_intermediate_concepts": [
+          "滋滋"
+        ],
+        "target_idiom_part": "孜孜",
+        "gold_bridge_path": [
+          "喷水",
+          "滋滋",
+          "孜孜"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "不困倦",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "不倦",
+        "gold_bridge_path": [
+          "不困",
+          "不倦"
+        ],
+        "evidence": [
+          "P1",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "孜孜",
+        "mapped_from": "喷水 -> 滋滋 -> 孜孜"
+      },
+      {
+        "idiom_part": "不倦",
+        "mapped_from": "不困 -> 不倦"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0007",
+    "origin": "human",
+    "file_name": "背道而驰.png",
+    "image_file": "data/human/images/背道而驰.png",
+    "gold_idiom": "背道而驰",
+    "simple_rationale": "一个人骑摩托背着道士飞奔，道士说快放他下来，所以是背道（士）而驰",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "有人骑摩托飞奔"
+      },
+      {
+        "id": "P2",
+        "content": "骑车的人背着道士"
+      },
+      {
+        "id": "P3",
+        "content": "道士要求对方放他下来"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "背着道士",
+        "acceptable_intermediate_concepts": [
+          "背道士"
+        ],
+        "target_idiom_part": "背道",
+        "gold_bridge_path": [
+          "背着道士",
+          "背道士",
+          "背道"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "飞奔骑行",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "而驰",
+        "gold_bridge_path": [
+          "飞奔",
+          "驰"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "背道",
+        "mapped_from": "背着道士 -> 背道士 -> 背道"
+      },
+      {
+        "idiom_part": "而驰",
+        "mapped_from": "飞奔 -> 驰"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0008",
+    "origin": "human",
+    "file_name": "别开生面.png",
+    "image_file": "data/human/images/别开生面.png",
+    "gold_idiom": "别开生面",
+    "simple_rationale": "有四个员工，三碗是煮熟的面，一碗是生的面，蟹老板说你们被解雇（开除）了，海绵宝宝指着生的面说不要解雇他。所以是别开（除）生面",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "四个员工面前有几碗面"
+      },
+      {
+        "id": "P2",
+        "content": "三碗是熟面，一碗是生面"
+      },
+      {
+        "id": "P3",
+        "content": "蟹老板说员工被解雇/开除"
+      },
+      {
+        "id": "P4",
+        "content": "海绵宝宝指着生面说不要解雇它"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "不要开除",
+        "acceptable_intermediate_concepts": [
+          "别开除"
+        ],
+        "target_idiom_part": "别开",
+        "gold_bridge_path": [
+          "不要开除",
+          "别开除",
+          "别开"
+        ],
+        "evidence": [
+          "P3",
+          "P4"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "生的面",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "生面",
+        "gold_bridge_path": [
+          "生面",
+          "生面"
+        ],
+        "evidence": [
+          "P2",
+          "P4"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "别开",
+        "mapped_from": "不要开除 -> 别开除 -> 别开"
+      },
+      {
+        "idiom_part": "生面",
+        "mapped_from": "生面 -> 生面"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0009",
+    "origin": "human",
+    "file_name": "勾心斗角.png",
+    "image_file": "data/human/images/勾心斗角.png",
+    "gold_idiom": "勾心斗角",
+    "simple_rationale": "一个豆角在勾引一颗心，所以是勾心斗角",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一颗心出现在画面中"
+      },
+      {
+        "id": "P2",
+        "content": "一个豆角在勾引或勾住心"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "勾引一颗心",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "勾心",
+        "gold_bridge_path": [
+          "勾引心",
+          "勾心"
+        ],
+        "evidence": [
+          "P1",
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "豆角",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "斗角",
+        "gold_bridge_path": [
+          "豆角",
+          "斗角"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "勾心",
+        "mapped_from": "勾引心 -> 勾心"
+      },
+      {
+        "idiom_part": "斗角",
+        "mapped_from": "豆角 -> 斗角"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0010",
+    "origin": "human",
+    "file_name": "积少成多.png",
+    "image_file": "data/human/images/积少成多.png",
+    "gold_idiom": "积少成多",
+    "simple_rationale": "一只烤鸡周围围了一圈橙子，鸡少，橙子多，所以是积（鸡）少成（橙）多",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一只鸡数量少"
+      },
+      {
+        "id": "P2",
+        "content": "周围有很多橙子"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "鸡少",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "积少",
+        "gold_bridge_path": [
+          "鸡少",
+          "积少"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "橙子多",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "成多",
+        "gold_bridge_path": [
+          "橙多",
+          "成多"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "积少",
+        "mapped_from": "鸡少 -> 积少"
+      },
+      {
+        "idiom_part": "成多",
+        "mapped_from": "橙多 -> 成多"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0011",
+    "origin": "human",
+    "file_name": "空前绝后.png",
+    "image_file": "data/human/images/空前绝后.png",
+    "gold_idiom": "空前绝后",
+    "simple_rationale": "一个人和大圣说要练神功啦，神功是葵花宝典，并且拿着刀子，刀子上有血，葵花宝典最经典的是“欲练神功，必先自宫”，大圣名叫孙悟空，自宫了之后就绝后了，所以答案是空前绝后",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "图中出现大圣 / 孙悟空"
+      },
+      {
+        "id": "P2",
+        "content": "有人提到练神功和葵花宝典"
+      },
+      {
+        "id": "P3",
+        "content": "画面中有带血的刀"
+      },
+      {
+        "id": "P4",
+        "content": "葵花宝典关联“欲练神功，必先自宫”"
+      },
+      {
+        "id": "P5",
+        "content": "自宫后不能有后代"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "孙悟空",
+        "acceptable_intermediate_concepts": [
+          "悟空",
+          "空"
+        ],
+        "target_idiom_part": "空",
+        "gold_bridge_path": [
+          "孙悟空",
+          "空"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "必先自宫",
+        "acceptable_intermediate_concepts": [
+          "先",
+          "前"
+        ],
+        "target_idiom_part": "前",
+        "gold_bridge_path": [
+          "必先自宫",
+          "先",
+          "前"
+        ],
+        "evidence": [
+          "P2",
+          "P4"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "自宫后无后代",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "绝后",
+        "gold_bridge_path": [
+          "自宫",
+          "无后代",
+          "绝后"
+        ],
+        "evidence": [
+          "P3",
+          "P5"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "空",
+        "mapped_from": "孙悟空 -> 空"
+      },
+      {
+        "idiom_part": "前",
+        "mapped_from": "必先自宫 -> 先 -> 前"
+      },
+      {
+        "idiom_part": "绝后",
+        "mapped_from": "自宫 -> 无后代 -> 绝后"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "high",
+      "ambiguity": "high"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0012",
+    "origin": "human",
+    "file_name": "倾家荡产.png",
+    "image_file": "data/human/images/倾家荡产.png",
+    "gold_idiom": "倾家荡产",
+    "simple_rationale": "一个人对另一个人说他们孩子的婚礼快开始了，说明另一个人是他的亲家，而另一个人在荡秋千，秋千的底部是一个铲子，所以是倾家（亲家）荡产（铲）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人称另一个人为亲家"
+      },
+      {
+        "id": "P2",
+        "content": "另一个人在荡秋千"
+      },
+      {
+        "id": "P3",
+        "content": "秋千底部有铲子"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "亲家",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "倾家",
+        "gold_bridge_path": [
+          "亲家",
+          "倾家"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "荡秋千和铲子",
+        "acceptable_intermediate_concepts": [
+          "荡铲"
+        ],
+        "target_idiom_part": "荡产",
+        "gold_bridge_path": [
+          "荡秋千",
+          "铲子",
+          "荡铲",
+          "荡产"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "倾家",
+        "mapped_from": "亲家 -> 倾家"
+      },
+      {
+        "idiom_part": "荡产",
+        "mapped_from": "荡秋千 -> 铲子 -> 荡铲 -> 荡产"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 3,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0013",
+    "origin": "human",
+    "file_name": "死有余辜.png",
+    "image_file": "data/human/images/死有余辜.png",
+    "gold_idiom": "死有余辜",
+    "simple_rationale": "一坨屎里面有鱼和蘑菇，屎和死谐音，所以是死有余（鱼）辜（菇）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一坨屎"
+      },
+      {
+        "id": "P2",
+        "content": "屎里面有鱼"
+      },
+      {
+        "id": "P3",
+        "content": "屎里面有蘑菇"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "屎",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "死",
+        "gold_bridge_path": [
+          "屎",
+          "死"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "鱼",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "余",
+        "gold_bridge_path": [
+          "鱼",
+          "余"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "蘑菇",
+        "acceptable_intermediate_concepts": [
+          "菇"
+        ],
+        "target_idiom_part": "辜",
+        "gold_bridge_path": [
+          "蘑菇",
+          "菇",
+          "辜"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "死",
+        "mapped_from": "屎 -> 死"
+      },
+      {
+        "idiom_part": "余",
+        "mapped_from": "鱼 -> 余"
+      },
+      {
+        "idiom_part": "辜",
+        "mapped_from": "蘑菇 -> 菇 -> 辜"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0014",
+    "origin": "human",
+    "file_name": "有勇无谋.png",
+    "image_file": "data/human/images/有勇无谋.png",
+    "gold_idiom": "有勇无谋",
+    "simple_rationale": "有三个人，两个在岸上，有眼眸，一个在水里游泳，没有眼眸，所以是有勇（游泳）无谋（眸）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "有人在水里游泳"
+      },
+      {
+        "id": "P2",
+        "content": "岸上的人有眼眸"
+      },
+      {
+        "id": "P3",
+        "content": "水里游泳的人没有眼眸"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "游泳",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "有勇",
+        "gold_bridge_path": [
+          "游泳",
+          "有勇"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "没有眼眸",
+        "acceptable_intermediate_concepts": [
+          "无眸"
+        ],
+        "target_idiom_part": "无谋",
+        "gold_bridge_path": [
+          "没有眼眸",
+          "无眸",
+          "无谋"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "有勇",
+        "mapped_from": "游泳 -> 有勇"
+      },
+      {
+        "idiom_part": "无谋",
+        "mapped_from": "没有眼眸 -> 无眸 -> 无谋"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0015",
+    "origin": "human",
+    "file_name": "愚昧无知.png",
+    "image_file": "data/human/images/愚昧无知.png",
+    "gold_idiom": "愚昧无知",
+    "simple_rationale": "有四条鱼，两条头上戴了蝴蝶结，是雌性鱼，另外两条没有蝴蝶结，是雄性鱼，其中一条小的雌性鱼说‘爸妈，怎么哥都有，我的呢’。她指的是芝士，其他三条鱼都有芝士，所以是愚昧（鱼妹）无知（芝）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "四条鱼组成家庭场景"
+      },
+      {
+        "id": "P2",
+        "content": "小的雌性鱼像妹妹"
+      },
+      {
+        "id": "P3",
+        "content": "其他鱼都有芝士而她没有"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "鱼妹妹",
+        "acceptable_intermediate_concepts": [
+          "鱼妹"
+        ],
+        "target_idiom_part": "愚昧",
+        "gold_bridge_path": [
+          "鱼妹",
+          "愚昧"
+        ],
+        "evidence": [
+          "P1",
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "没有芝士",
+        "acceptable_intermediate_concepts": [
+          "无芝"
+        ],
+        "target_idiom_part": "无知",
+        "gold_bridge_path": [
+          "没有芝士",
+          "无芝",
+          "无知"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "愚昧",
+        "mapped_from": "鱼妹 -> 愚昧"
+      },
+      {
+        "idiom_part": "无知",
+        "mapped_from": "没有芝士 -> 无芝 -> 无知"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0016",
+    "origin": "human",
+    "file_name": "正人君子.png",
+    "image_file": "data/human/images/正人君子.png",
+    "gold_idiom": "正人君子",
+    "simple_rationale": "法庭上，一个法官，另一个是证人，证人是个蘑菇，蘑菇又叫菌子，所以是正人（证人）君子（菌子）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "法庭上出现证人"
+      },
+      {
+        "id": "P2",
+        "content": "证人是蘑菇形象"
+      },
+      {
+        "id": "P3",
+        "content": "蘑菇也可称菌子"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "证人",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "正人",
+        "gold_bridge_path": [
+          "证人",
+          "正人"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "菌子",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "君子",
+        "gold_bridge_path": [
+          "菌子",
+          "君子"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "正人",
+        "mapped_from": "证人 -> 正人"
+      },
+      {
+        "idiom_part": "君子",
+        "mapped_from": "菌子 -> 君子"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0017",
+    "origin": "human",
+    "file_name": "半路出家.jpg",
+    "image_file": "data/human/images/半路出家.jpg",
+    "gold_idiom": "半路出家",
+    "simple_rationale": "一个路飞，有一半是原本的样子，另一半是和尚的样子，所以是半路出家",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "图中出现路飞"
+      },
+      {
+        "id": "P2",
+        "content": "路飞一半保持原样"
+      },
+      {
+        "id": "P3",
+        "content": "另一半变成和尚形象"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "半个路飞",
+        "acceptable_intermediate_concepts": [
+          "半路"
+        ],
+        "target_idiom_part": "半路",
+        "gold_bridge_path": [
+          "半个路飞",
+          "半路"
+        ],
+        "evidence": [
+          "P1",
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "和尚形象",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "出家",
+        "gold_bridge_path": [
+          "和尚",
+          "出家"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "半路",
+        "mapped_from": "半个路飞 -> 半路"
+      },
+      {
+        "idiom_part": "出家",
+        "mapped_from": "和尚 -> 出家"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0018",
+    "origin": "human",
+    "file_name": "大可不必.jpg",
+    "image_file": "data/human/images/大可不必.jpg",
+    "gold_idiom": "大可不必",
+    "simple_rationale": "一个人对卖可乐的老板说‘不不不，小杯的就行’，所以是大可不必（不用大杯的可乐）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "有人在卖可乐"
+      },
+      {
+        "id": "P2",
+        "content": "顾客拒绝大杯可乐并说小杯即可"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "大杯可乐",
+        "acceptable_intermediate_concepts": [
+          "大可"
+        ],
+        "target_idiom_part": "大可",
+        "gold_bridge_path": [
+          "大杯可乐",
+          "大可"
+        ],
+        "evidence": [
+          "P1",
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "不用/不需要",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "不必",
+        "gold_bridge_path": [
+          "不用",
+          "不必"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "大可",
+        "mapped_from": "大杯可乐 -> 大可"
+      },
+      {
+        "idiom_part": "不必",
+        "mapped_from": "不用 -> 不必"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0019",
+    "origin": "human",
+    "file_name": "单刀赴会.jpg",
+    "image_file": "data/human/images/单刀赴会.jpg",
+    "gold_idiom": "单刀赴会",
+    "simple_rationale": "两个人去约会，女生说‘你出来约会就带一美元啊！？’，美元又叫美刀，所以是单刀赴会",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "两个人准备约会"
+      },
+      {
+        "id": "P2",
+        "content": "男方只带了一美元"
+      },
+      {
+        "id": "P3",
+        "content": "美元可称 dollar / 美刀"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "一美元",
+        "acceptable_intermediate_concepts": [
+          "一刀",
+          "美刀"
+        ],
+        "target_idiom_part": "单刀",
+        "gold_bridge_path": [
+          "一美元",
+          "一刀",
+          "单刀"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "去约会",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "赴会",
+        "gold_bridge_path": [
+          "约会",
+          "赴会"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "单刀",
+        "mapped_from": "一美元 -> 一刀 -> 单刀"
+      },
+      {
+        "idiom_part": "赴会",
+        "mapped_from": "约会 -> 赴会"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0020",
+    "origin": "human",
+    "file_name": "断章取义.jpg",
+    "image_file": "data/human/images/断章取义.jpg",
+    "gold_idiom": "断章取义",
+    "simple_rationale": "一只断了触手的章鱼去银行取钱，取一个亿，所以是断章（章鱼）取义（亿）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一只章鱼断了触手"
+      },
+      {
+        "id": "P2",
+        "content": "章鱼去银行取钱"
+      },
+      {
+        "id": "P3",
+        "content": "取款金额是一个亿"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "断了触手的章鱼",
+        "acceptable_intermediate_concepts": [
+          "断章鱼"
+        ],
+        "target_idiom_part": "断章",
+        "gold_bridge_path": [
+          "断了的章鱼",
+          "断章鱼",
+          "断章"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "取钱",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "取",
+        "gold_bridge_path": [
+          "取钱",
+          "取"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "一个亿",
+        "acceptable_intermediate_concepts": [
+          "亿"
+        ],
+        "target_idiom_part": "义",
+        "gold_bridge_path": [
+          "亿",
+          "义"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "断章",
+        "mapped_from": "断了的章鱼 -> 断章鱼 -> 断章"
+      },
+      {
+        "idiom_part": "取",
+        "mapped_from": "取钱 -> 取"
+      },
+      {
+        "idiom_part": "义",
+        "mapped_from": "亿 -> 义"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0021",
+    "origin": "human",
+    "file_name": "对酒当歌.jpg",
+    "image_file": "data/human/images/对酒当歌.jpg",
+    "gold_idiom": "对酒当歌",
+    "simple_rationale": "两张数值为9的扑克牌对一个人说‘从今天起，你就是我俩的弟弟了’，所以是对酒（9）当歌（哥）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "两张数值为 9 的扑克牌"
+      },
+      {
+        "id": "P2",
+        "content": "两张 9 对着一个人说话"
+      },
+      {
+        "id": "P3",
+        "content": "它们让对方当自己的哥哥/弟弟关系中的哥"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "一对 9",
+        "acceptable_intermediate_concepts": [
+          "对九"
+        ],
+        "target_idiom_part": "对酒",
+        "gold_bridge_path": [
+          "一对9",
+          "对九",
+          "对酒"
+        ],
+        "evidence": [
+          "P1",
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "当哥",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "当歌",
+        "gold_bridge_path": [
+          "当哥",
+          "当歌"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "对酒",
+        "mapped_from": "一对9 -> 对九 -> 对酒"
+      },
+      {
+        "idiom_part": "当歌",
+        "mapped_from": "当哥 -> 当歌"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0022",
+    "origin": "human",
+    "file_name": "多管闲事.jpg",
+    "image_file": "data/human/images/多管闲事.jpg",
+    "gold_idiom": "多管闲事",
+    "simple_rationale": "一个柿子上插了好多根管子，有一个标注了盐的调料瓶正在往上面撒盐，盐是咸的，所以是多管（管子）闲（咸）事（柿）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个柿子上插了很多管子"
+      },
+      {
+        "id": "P2",
+        "content": "标着盐的调料瓶正在撒盐"
+      },
+      {
+        "id": "P3",
+        "content": "盐是咸的"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "很多管子",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "多管",
+        "gold_bridge_path": [
+          "很多管子",
+          "多管"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "咸盐",
+        "acceptable_intermediate_concepts": [
+          "咸"
+        ],
+        "target_idiom_part": "闲",
+        "gold_bridge_path": [
+          "盐",
+          "咸",
+          "闲"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "柿子",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "事",
+        "gold_bridge_path": [
+          "柿子",
+          "事"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "多管",
+        "mapped_from": "很多管子 -> 多管"
+      },
+      {
+        "idiom_part": "闲",
+        "mapped_from": "盐 -> 咸 -> 闲"
+      },
+      {
+        "idiom_part": "事",
+        "mapped_from": "柿子 -> 事"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0023",
+    "origin": "human",
+    "file_name": "各有千秋.jpg",
+    "image_file": "data/human/images/各有千秋.jpg",
+    "gold_idiom": "各有千秋",
+    "simple_rationale": "五个人都举着秋千，秋千是倒着的，那就是‘千秋’，所以是各有千秋",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "几个人各自举着秋千"
+      },
+      {
+        "id": "P2",
+        "content": "秋千被倒置，形成“千秋”的视觉双关"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "每个人各自拥有",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "各有",
+        "gold_bridge_path": [
+          "各自有",
+          "各有"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "倒置的秋千",
+        "acceptable_intermediate_concepts": [
+          "千秋"
+        ],
+        "target_idiom_part": "千秋",
+        "gold_bridge_path": [
+          "秋千倒置",
+          "千秋"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "各有",
+        "mapped_from": "各自有 -> 各有"
+      },
+      {
+        "idiom_part": "千秋",
+        "mapped_from": "秋千倒置 -> 千秋"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0024",
+    "origin": "human",
+    "file_name": "拱手相让.jpg",
+    "image_file": "data/human/images/拱手相让.jpg",
+    "gold_idiom": "拱手相让",
+    "simple_rationale": "两头猪看着一只手，都让对方先吃，猪通常是拱的，所以是拱手相让",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "两头猪看着一只手"
+      },
+      {
+        "id": "P2",
+        "content": "两头猪互相让对方先吃"
+      },
+      {
+        "id": "P3",
+        "content": "猪通常会拱东西"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "猪拱东西",
+        "acceptable_intermediate_concepts": [
+          "拱"
+        ],
+        "target_idiom_part": "拱",
+        "gold_bridge_path": [
+          "猪拱",
+          "拱"
+        ],
+        "evidence": [
+          "P1",
+          "P3"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "手",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "手",
+        "gold_bridge_path": [
+          "手",
+          "手"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "互相让",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "相让",
+        "gold_bridge_path": [
+          "互相让",
+          "相让"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "拱",
+        "mapped_from": "猪拱 -> 拱"
+      },
+      {
+        "idiom_part": "手",
+        "mapped_from": "手 -> 手"
+      },
+      {
+        "idiom_part": "相让",
+        "mapped_from": "互相让 -> 相让"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0025",
+    "origin": "human",
+    "file_name": "狗仗人势.jpg",
+    "image_file": "data/human/images/狗仗人势.jpg",
+    "gold_idiom": "狗仗人势",
+    "simple_rationale": "狗指着柿子说‘给大家介绍一下，这是我岳父’，岳父又叫丈人，所以是狗仗人（丈人）势（柿）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "狗在介绍一个柿子"
+      },
+      {
+        "id": "P2",
+        "content": "狗称对方为岳父"
+      },
+      {
+        "id": "P3",
+        "content": "岳父可称丈人"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "狗",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "狗",
+        "gold_bridge_path": [
+          "狗",
+          "狗"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "丈人",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "仗人",
+        "gold_bridge_path": [
+          "岳父",
+          "丈人",
+          "仗人"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "柿子",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "势",
+        "gold_bridge_path": [
+          "柿子",
+          "势"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "狗",
+        "mapped_from": "狗 -> 狗"
+      },
+      {
+        "idiom_part": "仗人",
+        "mapped_from": "岳父 -> 丈人 -> 仗人"
+      },
+      {
+        "idiom_part": "势",
+        "mapped_from": "柿子 -> 势"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0026",
+    "origin": "human",
+    "file_name": "后患无穷.jpg",
+    "image_file": "data/human/images/后患无穷.jpg",
+    "gold_idiom": "后患无穷",
+    "simple_rationale": "一个人后面跟着很多打吊瓶的患者，他们都用的金拐杖、金吊瓶架，带着大金链子，一看就不是穷人，所以是后患（患者）无穷（穷人）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人后面跟着很多患者"
+      },
+      {
+        "id": "P2",
+        "content": "患者使用金拐杖、金吊瓶架并戴金链子"
+      },
+      {
+        "id": "P3",
+        "content": "这些患者看起来不穷"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "后面跟着患者",
+        "acceptable_intermediate_concepts": [
+          "后患"
+        ],
+        "target_idiom_part": "后患",
+        "gold_bridge_path": [
+          "后面患者",
+          "后患"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "不穷的患者",
+        "acceptable_intermediate_concepts": [
+          "无穷"
+        ],
+        "target_idiom_part": "无穷",
+        "gold_bridge_path": [
+          "不穷",
+          "无穷"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "后患",
+        "mapped_from": "后面患者 -> 后患"
+      },
+      {
+        "idiom_part": "无穷",
+        "mapped_from": "不穷 -> 无穷"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0027",
+    "origin": "human",
+    "file_name": "老态龙钟.jpg",
+    "image_file": "data/human/images/老态龙钟.jpg",
+    "gold_idiom": "老态龙钟",
+    "simple_rationale": "一个老太太被关在笼子里，所以是老态（老太）龙钟（笼中）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个老太太"
+      },
+      {
+        "id": "P2",
+        "content": "老太太被关在笼子里"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "老太太",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "老态",
+        "gold_bridge_path": [
+          "老太",
+          "老态"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "笼中",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "龙钟",
+        "gold_bridge_path": [
+          "笼中",
+          "龙钟"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "老态",
+        "mapped_from": "老太 -> 老态"
+      },
+      {
+        "idiom_part": "龙钟",
+        "mapped_from": "笼中 -> 龙钟"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0028",
+    "origin": "human",
+    "file_name": "路人皆知.jpg",
+    "image_file": "data/human/images/路人皆知.jpg",
+    "gold_idiom": "路人皆知",
+    "simple_rationale": "路上很多人在接天上掉下来的芝士，所以是路人皆知（接芝）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "路上有很多人"
+      },
+      {
+        "id": "P2",
+        "content": "很多人在接天上掉下来的芝士"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "路上的人",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "路人",
+        "gold_bridge_path": [
+          "路上的人",
+          "路人"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "接芝士",
+        "acceptable_intermediate_concepts": [
+          "接芝"
+        ],
+        "target_idiom_part": "皆知",
+        "gold_bridge_path": [
+          "接芝士",
+          "接芝",
+          "皆知"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "路人",
+        "mapped_from": "路上的人 -> 路人"
+      },
+      {
+        "idiom_part": "皆知",
+        "mapped_from": "接芝士 -> 接芝 -> 皆知"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0029",
+    "origin": "human",
+    "file_name": "命中注定.jpg",
+    "image_file": "data/human/images/命中注定.jpg",
+    "gold_idiom": "命中注定",
+    "simple_rationale": "一个人拿着枪，打中了前面一头猪的屁股，打中了就是命中，猪屁股就是猪腚，所以是命中注定（猪腚）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人拿枪射击并打中目标"
+      },
+      {
+        "id": "P2",
+        "content": "被打中的是猪的屁股"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "打中",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "命中",
+        "gold_bridge_path": [
+          "打中",
+          "命中"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "猪腚",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "注定",
+        "gold_bridge_path": [
+          "猪屁股",
+          "猪腚",
+          "注定"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "命中",
+        "mapped_from": "打中 -> 命中"
+      },
+      {
+        "idiom_part": "注定",
+        "mapped_from": "猪屁股 -> 猪腚 -> 注定"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0030",
+    "origin": "human",
+    "file_name": "泥古不化.jpg",
+    "image_file": "data/human/images/泥古不化.jpg",
+    "gold_idiom": "泥古不化",
+    "simple_rationale": "一个人拿着口红和带小镜子的粉饼，邀请一根香烟来化妆，香烟摆手拒绝。香烟里全是尼古丁，所以是泥古（尼古）不化（妆）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人拿着化妆品邀请香烟化妆"
+      },
+      {
+        "id": "P2",
+        "content": "香烟拒绝化妆"
+      },
+      {
+        "id": "P3",
+        "content": "香烟含有尼古丁"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "尼古丁",
+        "acceptable_intermediate_concepts": [
+          "尼古"
+        ],
+        "target_idiom_part": "泥古",
+        "gold_bridge_path": [
+          "尼古丁",
+          "尼古",
+          "泥古"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "不化妆",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "不化",
+        "gold_bridge_path": [
+          "不化妆",
+          "不化"
+        ],
+        "evidence": [
+          "P1",
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "泥古",
+        "mapped_from": "尼古丁 -> 尼古 -> 泥古"
+      },
+      {
+        "idiom_part": "不化",
+        "mapped_from": "不化妆 -> 不化"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0031",
+    "origin": "human",
+    "file_name": "怒不可遏.jpg",
+    "image_file": "data/human/images/怒不可遏.jpg",
+    "gold_idiom": "怒不可遏",
+    "simple_rationale": "一本生气的书坐在地上，肚子咕咕叫，还流口水，书就是book，所以是怒不可（book）遏（饿）",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一本书表现出生气状态"
+      },
+      {
+        "id": "P2",
+        "content": "书对应英文 book"
+      },
+      {
+        "id": "P3",
+        "content": "书肚子咕咕叫并流口水，像饿了"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "生气",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "怒",
+        "gold_bridge_path": [
+          "生气",
+          "怒"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "book",
+        "acceptable_intermediate_concepts": [
+          "不可"
+        ],
+        "target_idiom_part": "不可",
+        "gold_bridge_path": [
+          "书",
+          "book",
+          "不可"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "饿",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "遏",
+        "gold_bridge_path": [
+          "饿",
+          "遏"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "怒",
+        "mapped_from": "生气 -> 怒"
+      },
+      {
+        "idiom_part": "不可",
+        "mapped_from": "书 -> book -> 不可"
+      },
+      {
+        "idiom_part": "遏",
+        "mapped_from": "饿 -> 遏"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0032",
+    "origin": "human",
+    "file_name": "上纲上线.jpg",
+    "image_file": "data/human/images/上纲上线.jpg",
+    "gold_idiom": "上纲上线",
+    "simple_rationale": "一个人站在钢琴上启动了王者荣耀，启动王者荣耀又叫上线，所以是上纲（钢琴）上线",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人站在钢琴上"
+      },
+      {
+        "id": "P2",
+        "content": "手机或游戏画面启动王者荣耀"
+      },
+      {
+        "id": "P3",
+        "content": "启动游戏可称上线"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "站在钢琴上",
+        "acceptable_intermediate_concepts": [
+          "上钢"
+        ],
+        "target_idiom_part": "上纲",
+        "gold_bridge_path": [
+          "上钢琴",
+          "上钢",
+          "上纲"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "游戏上线",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "上线",
+        "gold_bridge_path": [
+          "启动王者荣耀",
+          "上线"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "上纲",
+        "mapped_from": "上钢琴 -> 上钢 -> 上纲"
+      },
+      {
+        "idiom_part": "上线",
+        "mapped_from": "启动王者荣耀 -> 上线"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0033",
+    "origin": "human",
+    "file_name": "素不相识.jpg",
+    "image_file": "data/human/images/素不相识.jpg",
+    "gold_idiom": "素不相识",
+    "simple_rationale": "白菜、苦瓜、萝卜都在问对方是谁，这些都是素菜，所以是素不相识",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "白菜、苦瓜、萝卜等素菜出现"
+      },
+      {
+        "id": "P2",
+        "content": "这些蔬菜互相询问对方是谁，表示不认识"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "素菜",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "素",
+        "gold_bridge_path": [
+          "素菜",
+          "素"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "互相不认识",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "不相识",
+        "gold_bridge_path": [
+          "不认识",
+          "不相识"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "素",
+        "mapped_from": "素菜 -> 素"
+      },
+      {
+        "idiom_part": "不相识",
+        "mapped_from": "不认识 -> 不相识"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0034",
+    "origin": "human",
+    "file_name": "以德服人.jpg",
+    "image_file": "data/human/images/以德服人.jpg",
+    "gold_idiom": "以德服人",
+    "simple_rationale": "一个人倚在Dove巧克力上，Dove的中文名叫德芙，所以是以（倚）德服（Dove）人",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人倚靠在 Dove 巧克力上"
+      },
+      {
+        "id": "P2",
+        "content": "Dove 的中文名是德芙"
+      },
+      {
+        "id": "P3",
+        "content": "图中有人"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "倚靠",
+        "acceptable_intermediate_concepts": [
+          "倚"
+        ],
+        "target_idiom_part": "以",
+        "gold_bridge_path": [
+          "倚靠",
+          "倚",
+          "以"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "Dove / 德芙",
+        "acceptable_intermediate_concepts": [
+          "德芙"
+        ],
+        "target_idiom_part": "德服",
+        "gold_bridge_path": [
+          "Dove",
+          "德芙",
+          "德服"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      },
+      {
+        "id": "B3",
+        "image_concept": "人",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "人",
+        "gold_bridge_path": [
+          "人",
+          "人"
+        ],
+        "evidence": [
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "以",
+        "mapped_from": "倚靠 -> 倚 -> 以"
+      },
+      {
+        "idiom_part": "德服",
+        "mapped_from": "Dove -> 德芙 -> 德服"
+      },
+      {
+        "idiom_part": "人",
+        "mapped_from": "人 -> 人"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 3,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0035",
+    "origin": "human",
+    "file_name": "心服口服.jpg",
+    "image_file": "data/human/images/心服口服.jpg",
+    "gold_idiom": "心服口服",
+    "simple_rationale": "一个人正在口服一件画着心的衣服，心服（画着心的衣服）和口服（放入口中吞服）,所以是心服口服。",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一件衣服上画着心"
+      },
+      {
+        "id": "P2",
+        "content": "有人把这件衣服放入口中吞服"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "画着心的衣服",
+        "acceptable_intermediate_concepts": [
+          "心衣服"
+        ],
+        "target_idiom_part": "心服",
+        "gold_bridge_path": [
+          "心形衣服",
+          "心服"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "口中吞服",
+        "acceptable_intermediate_concepts": [],
+        "target_idiom_part": "口服",
+        "gold_bridge_path": [
+          "口中吞服",
+          "口服"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "心服",
+        "mapped_from": "心形衣服 -> 心服"
+      },
+      {
+        "idiom_part": "口服",
+        "mapped_from": "口中吞服 -> 口服"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 1,
+      "knowledge_dependency": "low",
+      "ambiguity": "low"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0036",
+    "origin": "human",
+    "file_name": "德才兼备.jpg",
+    "image_file": "data/human/images/德才兼备.jpg",
+    "gold_idiom": "德才兼备",
+    "simple_rationale": "一个人从别人手里得到了钱财，旁边还有人在锅里煎贝壳，得财（德才）+煎贝（兼备），所以是德才兼备。",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "一个人从别人手里得到钱财"
+      },
+      {
+        "id": "P2",
+        "content": "旁边有人在锅里煎贝壳"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "得到钱财",
+        "acceptable_intermediate_concepts": [
+          "得财"
+        ],
+        "target_idiom_part": "德才",
+        "gold_bridge_path": [
+          "得到钱财",
+          "得财",
+          "德才"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "煎贝壳",
+        "acceptable_intermediate_concepts": [
+          "煎贝"
+        ],
+        "target_idiom_part": "兼备",
+        "gold_bridge_path": [
+          "煎贝",
+          "兼备"
+        ],
+        "evidence": [
+          "P2"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "德才",
+        "mapped_from": "得到钱财 -> 得财 -> 德才"
+      },
+      {
+        "idiom_part": "兼备",
+        "mapped_from": "煎贝 -> 兼备"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "low",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  },
+  {
+    "schema_version": "minimal_evidence_bridge_v1",
+    "item_id": "human_seed_0037",
+    "origin": "human",
+    "file_name": "茅塞顿开.jpg",
+    "image_file": "data/human/images/茅塞顿开.jpg",
+    "gold_idiom": "茅塞顿开",
+    "simple_rationale": "一个人把厕所拉堵了，向被苹果砸到头的牛顿求救，牛顿说要去把厕所通开，即茅塞（厕所堵了）+顿开（牛顿去通开），所以是茅塞顿开。",
+    "visible_cues": [
+      {
+        "id": "P1",
+        "content": "厕所被拉堵了"
+      },
+      {
+        "id": "P2",
+        "content": "有人向被苹果砸到头的牛顿求救"
+      },
+      {
+        "id": "P3",
+        "content": "牛顿要去把厕所通开"
+      }
+    ],
+    "bridge_units": [
+      {
+        "id": "B1",
+        "image_concept": "厕所堵塞",
+        "acceptable_intermediate_concepts": [
+          "茅厕堵塞"
+        ],
+        "target_idiom_part": "茅塞",
+        "gold_bridge_path": [
+          "厕所堵塞",
+          "茅厕塞",
+          "茅塞"
+        ],
+        "evidence": [
+          "P1"
+        ],
+        "required": true
+      },
+      {
+        "id": "B2",
+        "image_concept": "牛顿去通开",
+        "acceptable_intermediate_concepts": [
+          "顿开"
+        ],
+        "target_idiom_part": "顿开",
+        "gold_bridge_path": [
+          "牛顿",
+          "通开",
+          "顿开"
+        ],
+        "evidence": [
+          "P2",
+          "P3"
+        ],
+        "required": true
+      }
+    ],
+    "answer_alignment": [
+      {
+        "idiom_part": "茅塞",
+        "mapped_from": "厕所堵塞 -> 茅厕塞 -> 茅塞"
+      },
+      {
+        "idiom_part": "顿开",
+        "mapped_from": "牛顿 -> 通开 -> 顿开"
+      }
+    ],
+    "difficulty": {
+      "source": "curated_annotation",
+      "bridge_unit_count": 2,
+      "max_bridge_depth": 2,
+      "knowledge_dependency": "medium",
+      "ambiguity": "medium"
+    },
+    "annotation_tier": "minimal_graph"
+  }
+]

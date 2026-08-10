@@ -1,0 +1,232 @@
+[
+  {
+    "item_id": "syn_l3_d72bbbe2821d",
+    "manual_prompt_scene": "岳母坐在餐桌旁，面前的椰子插着吸管递到她手边",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_bb08961129dd",
+    "manual_prompt_scene": "一只狗举着写“亿”的大牌，把地上的小积木全都打倒",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_10f70ca7fe42",
+    "manual_prompt_scene": "校园招聘摊前，一只熊把聘书递给名牌写“施老师”的人",
+    "review_notes": "“施”用人物名牌辅助识别"
+  },
+  {
+    "item_id": "syn_l3_bc026c691dff",
+    "manual_prompt_scene": "闪着红光的警笛旁，一根手指正指向蹲着的青蛙",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_67e71762e054",
+    "manual_prompt_scene": "辽阔海面前，年轻人正给姥姥缝补破了的外套",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_4f9074cd5ac2",
+    "manual_prompt_scene": "花轿前洒开一滩很深的黑墨水，轿夫踮脚绕行",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_c4365b5ce017",
+    "manual_prompt_scene": "枣树上翘着一条尾巴，正用小布袋偷收一束台灯光",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_ace7672ee488",
+    "manual_prompt_scene": "小庭院里，一对夫妻围着翻滚火锅并肩夹菜",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_69cc83f507a8",
+    "manual_prompt_scene": "挂着“关胜”名牌的武将把饲料分堆，喂一匹胖马",
+    "review_notes": "专名“关胜”需用名牌帮助识别"
+  },
+  {
+    "item_id": "syn_l3_7416aee594cc",
+    "manual_prompt_scene": "车辕朝南的小车旁，一张床上整齐铺着几根甘蔗",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_262aaf39dc70",
+    "manual_prompt_scene": "两只手在卤煮摊前相握，锅边摆着标注“胆”的小碟",
+    "review_notes": "“胆”用小碟标签降低歧义"
+  },
+  {
+    "item_id": "syn_l3_ed0278d6571c",
+    "manual_prompt_scene": "医院病床边，一袋大米贴在腹部，旁边放着小剑道具",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_67f8bdac5278",
+    "manual_prompt_scene": "椰子造型的老公公捧着东海海图，脸上露出喜欢的笑",
+    "review_notes": "“公”和“好”以人物与表情表现"
+  },
+  {
+    "item_id": "syn_l3_8c648e156dbd",
+    "manual_prompt_scene": "国王咬着一把香椿，牙齿冻得发抖并冒出白气",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_d37ff8ec5740",
+    "manual_prompt_scene": "唐僧端详一块青玉，袈裟被映成淡绿色",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_eff61edd9f94",
+    "manual_prompt_scene": "从天空垂下的大网罩住小弟和小狗，两者挤在网底",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_5b2cfa39512e",
+    "manual_prompt_scene": "穿女仆裙的侍女皱着怒脸，把奶茶重重放在托盘上",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_549f79cbf7d0",
+    "manual_prompt_scene": "一只小兽蹲在竹笋旁，举着怀表等待兔子跑来",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_f8c3aa97934a",
+    "manual_prompt_scene": "有人面对女孩和古琴，低头把痰吐进纸巾",
+    "review_notes": "吐痰动作做了弱化处理，避免画面过脏"
+  },
+  {
+    "item_id": "syn_l3_46db3e60c367",
+    "manual_prompt_scene": "地图上标着“山西”的板块被箭头水平推到右侧",
+    "review_notes": "地名需要地图文字辅助识别"
+  },
+  {
+    "item_id": "syn_l3_c7cc912f2a0e",
+    "manual_prompt_scene": "一盒牛奶架着小望远镜，在夜窗前仰头看星星",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_146eecf0e865",
+    "manual_prompt_scene": "公鸡被忽然飞起的纸鸟吓得翅膀张开",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_54f44085d943",
+    "manual_prompt_scene": "马夫牵着马站在路口，用手指向路牌方向",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_406b5b6179fe",
+    "manual_prompt_scene": "新娘穿婚纱推开门，把一只小包轻轻放到腹前",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_85d251461fd5",
+    "manual_prompt_scene": "晚会舞台上，燕子停在巨大耳朵道具旁啄响小铃",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_7c87860e1f74",
+    "manual_prompt_scene": "床沿伸出一只手，在台灯光里拨弄漂浮的烟环",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_db9adbbf10ca",
+    "manual_prompt_scene": "傍晚四点的公园里，散步者举手机向公告箱提交举报",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_9cae9af2a890",
+    "manual_prompt_scene": "戴金牌的冠军公鸡站在领奖台上，脚边投出蛇形影子",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_a03d1816746e",
+    "manual_prompt_scene": "厨房门口挂着七十号牌，灶台上放着写有名字的餐牌",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_159cce8fafa3",
+    "manual_prompt_scene": "帽穗垂在翻开的字典上，旁边夹着一张推荐卡",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_1893bff83139",
+    "manual_prompt_scene": "一只开屏孔雀站进花盆里，牌子写着“临时树”",
+    "review_notes": "“充树”用临时充当树的牌子表现"
+  },
+  {
+    "item_id": "syn_l3_e644b563226c",
+    "manual_prompt_scene": "两艘渔船靠在水面上，船员互相递鱼喂对方",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_34425b14b082",
+    "manual_prompt_scene": "名牌写“王濛”的人物给饥饿宠物递食盆",
+    "review_notes": "人物专名依赖名牌识别"
+  },
+  {
+    "item_id": "syn_l3_5c24422ef594",
+    "manual_prompt_scene": "印满代码的门票被夹在雪地入口，一人站在雪中等候",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_358986c2d021",
+    "manual_prompt_scene": "名牌写“曹操”的人物把圆环叼在嘴里，手里托着小结石标本",
+    "review_notes": "专名与结石都用画面内文字或标本辅助"
+  },
+  {
+    "item_id": "syn_l3_9cd94ccde815",
+    "manual_prompt_scene": "宴会餐桌上摊开一本书，书页中央画着大问号难题",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_6a2010353423",
+    "manual_prompt_scene": "戴帽的人举盾牌当背景，另一只手拿手机自拍",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_e5144c167e02",
+    "manual_prompt_scene": "一本书被搁在角落，桌上竹笋浸在一圈泡沫里",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_ada24e2f5692",
+    "manual_prompt_scene": "草莓和和尚都戴着士兵头盔，站在同一排操场上",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_d9c984394e98",
+    "manual_prompt_scene": "一块曲奇粘在火山陡坡上，旁边画出上升的山势线",
+    "review_notes": "“势”偏抽象，用山势线辅助呈现"
+  },
+  {
+    "item_id": "syn_l3_4fcaee72813e",
+    "manual_prompt_scene": "一张纸稿被可乐气泡托起，在杯口上方高高扬起",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_5744e701e717",
+    "manual_prompt_scene": "门口停着一艘小艇，船头挂着一副大眼镜",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_d8cb0765ab43",
+    "manual_prompt_scene": "作家举着手机放音乐，身旁的人随着铃声起身跳舞",
+    "review_notes": ""
+  },
+  {
+    "item_id": "syn_l3_b42a2aa0e467",
+    "manual_prompt_scene": "火锅店里两队人拔河，裁判胸牌写着“扈”",
+    "review_notes": "罕见单字“扈”用胸牌处理"
+  },
+  {
+    "item_id": "syn_l3_7b29b0009c09",
+    "manual_prompt_scene": "戴傻瓜帽的人在猪圈里搅拌饲料，小猪围着他转",
+    "review_notes": "“笨蛋”转成可画的傻瓜帽形象"
+  },
+  {
+    "item_id": "syn_l3_026bfcb07da6",
+    "manual_prompt_scene": "黑板前，名牌写“哪吒”的人物把符号和图形乱连成一团",
+    "review_notes": "人物专名用名牌辅助识别"
+  }
+]

@@ -1,0 +1,1664 @@
+{
+  "schema": "synthetic_image_generation_manifest_v1",
+  "source_prompts": "artifacts/synthetic_generation_prompts.json",
+  "count": 184,
+  "image_dir": "data/generated_images/synthetic",
+  "items": [
+    {
+      "item_id": "syn_l1_ef4ab385d23d",
+      "source_idiom": "一叶障目",
+      "level": "L1",
+      "final_substituted_phrase": "一椰障目",
+      "prompt_scene": "一只椰子贴在睁大的眼睛前，瞳孔只从椰壳边缘露出一点",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只椰子贴在睁大的眼睛前，瞳孔只从椰壳边缘露出一点。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_ef4ab385d23d.png"
+    },
+    {
+      "item_id": "syn_l2_b9a1767e072f",
+      "source_idiom": "一叶障目",
+      "level": "L2",
+      "final_substituted_phrase": "一椰账目",
+      "prompt_scene": "一个椰子外壳上密密麻麻写满账目，旁边放着一支记账笔",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个椰子外壳上密密麻麻写满账目，旁边放着一支记账笔。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_b9a1767e072f.png"
+    },
+    {
+      "item_id": "syn_l3_d72bbbe2821d",
+      "source_idiom": "一叶障目",
+      "level": "L3",
+      "final_substituted_phrase": "一椰岳母",
+      "prompt_scene": "岳母坐在餐桌旁，女婿拿着面前的椰子插着吸管递到她手边请她喝",
+      "prompt": "白底单幅中文创意插画，画幅内容是：岳母坐在餐桌旁，女婿拿着面前的椰子插着吸管递到她手边请她喝。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_d72bbbe2821d.png"
+    },
+    {
+      "item_id": "syn_l4_95c5d4f510b0",
+      "source_idiom": "一叶障目",
+      "level": "L4",
+      "final_substituted_phrase": "一大爷岳母",
+      "prompt_scene": "婚宴桌旁，一位大爷给儿子的岳母（他的亲家母）递茶，桌上摆着喜糖",
+      "prompt": "白底单幅中文创意插画，画幅内容是：婚宴桌旁，一位大爷给儿子的岳母（他的亲家母）递茶，桌上摆着喜糖。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_95c5d4f510b0.png"
+    },
+    {
+      "item_id": "syn_l1_6df388264e36",
+      "source_idiom": "一网打尽",
+      "level": "L1",
+      "final_substituted_phrase": "亿网打尽",
+      "prompt_scene": "一张印着“亿”的大网扣住所有小物件，网外只剩空地",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一张印着“亿”的大网扣住所有小物件，网外只剩空地。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_6df388264e36.png"
+    },
+    {
+      "item_id": "syn_l2_d8089bd7ac38",
+      "source_idiom": "一网打尽",
+      "level": "L2",
+      "final_substituted_phrase": "亿网大劲",
+      "prompt_scene": "一张印着“亿”的大网罩住健身房角落，用力举重的人被网挡住",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一张印着“亿”的大网罩住健身房角落，用力举重的人被网挡住。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_d8089bd7ac38.png"
+    },
+    {
+      "item_id": "syn_l3_bb08961129dd",
+      "source_idiom": "一网打尽",
+      "level": "L3",
+      "final_substituted_phrase": "亿狗打尽",
+      "prompt_scene": "一只狗举着写“亿”的大牌，把地上的小积木全都打倒，狗在汪汪叫",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只狗举着写“亿”的大牌，把地上的小积木全都打倒，狗在汪汪叫。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_bb08961129dd.png"
+    },
+    {
+      "item_id": "syn_l4_ceaeebe73614",
+      "source_idiom": "一网打尽",
+      "level": "L4",
+      "final_substituted_phrase": "衣柜狗打尽",
+      "prompt_scene": "一只狗从打开的衣柜里跳出，把地上的小积木全撞倒，狗在汪汪叫",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只狗从打开的衣柜里跳出，把地上的小积木全撞倒，狗在汪汪叫。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_ceaeebe73614.png"
+    },
+    {
+      "item_id": "syn_l1_7a1b9581916d",
+      "source_idiom": "东施效颦",
+      "level": "L1",
+      "final_substituted_phrase": "冬瓜施效颦",
+      "prompt_scene": "冬瓜伸出小手照着画像施展动作，努力学画像里的人皱眉",
+      "prompt": "白底单幅中文创意插画，画幅内容是：冬瓜伸出小手照着画像施展动作，努力学画像里的人皱眉。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_7a1b9581916d.png"
+    },
+    {
+      "item_id": "syn_l2_0c52ea1682d0",
+      "source_idiom": "东施效颦",
+      "level": "L2",
+      "final_substituted_phrase": "冬瓜施校聘",
+      "prompt_scene": "冬瓜坐在招聘摊前，旁边竖着校聘通知牌和一枚学校印章",
+      "prompt": "白底单幅中文创意插画，画幅内容是：冬瓜坐在招聘摊前，旁边竖着校聘通知牌和一枚学校印章。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_0c52ea1682d0.png"
+    },
+    {
+      "item_id": "syn_l3_10f70ca7fe42",
+      "source_idiom": "东施效颦",
+      "level": "L3",
+      "final_substituted_phrase": "熊施校聘",
+      "prompt_scene": "校园招聘摊前，一只熊把聘书递给名牌写“施老师”的人",
+      "prompt": "白底单幅中文创意插画，画幅内容是：校园招聘摊前，一只熊把聘书递给名牌写“施老师”的人。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_10f70ca7fe42.png"
+    },
+    {
+      "item_id": "syn_l4_a5c9d5a1d3c7",
+      "source_idiom": "东施效颦",
+      "level": "L4",
+      "final_substituted_phrase": "熊李白效颦",
+      "prompt_scene": "一只熊举着李白名牌，学着画像里的人皱眉",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只熊举着李白名牌，学着画像里的人皱眉。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_a5c9d5a1d3c7.png"
+    },
+    {
+      "item_id": "syn_l1_a512e3d3e7bd",
+      "source_idiom": "井底之蛙",
+      "level": "L1",
+      "final_substituted_phrase": "井底掷蛙",
+      "prompt_scene": "井底的圆石地上，一只手正把青蛙轻轻抛起，井口光圈在上方",
+      "prompt": "白底单幅中文创意插画，画幅内容是：井底的圆石地上，一只手正把青蛙轻轻抛起，井口光圈在上方。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_a512e3d3e7bd.png"
+    },
+    {
+      "item_id": "syn_l2_c49207d9da64",
+      "source_idiom": "井底之蛙",
+      "level": "L2",
+      "final_substituted_phrase": "警笛掷蛙",
+      "prompt_scene": "一只青蛙被警笛轻轻抛向空中，动作线清楚可见",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只青蛙被警笛轻轻抛向空中，动作线清楚可见。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_c49207d9da64.png"
+    },
+    {
+      "item_id": "syn_l3_bc026c691dff",
+      "source_idiom": "井底之蛙",
+      "level": "L3",
+      "final_substituted_phrase": "警笛手指蛙",
+      "prompt_scene": "闪着红光的警笛正用一根手指指向蹲着的青蛙",
+      "prompt": "白底单幅中文创意插画，画幅内容是：闪着红光的警笛正用一根手指指向蹲着的青蛙。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_bc026c691dff.png"
+    },
+    {
+      "item_id": "syn_l4_8c8ea6643677",
+      "source_idiom": "井底之蛙",
+      "level": "L4",
+      "final_substituted_phrase": "井底手指娃哈哈",
+      "prompt_scene": "井底伸出一根手指，指尖顶着一瓶娃哈哈AD钙奶",
+      "prompt": "白底单幅中文创意插画，画幅内容是：井底伸出一根手指，指尖顶着一瓶娃哈哈AD钙奶。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_8c8ea6643677.png"
+    },
+    {
+      "item_id": "syn_l1_38a638cf3046",
+      "source_idiom": "亡羊补牢",
+      "level": "L1",
+      "final_substituted_phrase": "汪洋补牢",
+      "prompt_scene": "海浪卷着锤子和木板，正在给破围栏钉上新的木条",
+      "prompt": "白底单幅中文创意插画，画幅内容是：海浪卷着锤子和木板，正在给破围栏钉上新的木条。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_38a638cf3046.png"
+    },
+    {
+      "item_id": "syn_l2_3fd600239c50",
+      "source_idiom": "亡羊补牢",
+      "level": "L2",
+      "final_substituted_phrase": "汪洋不老",
+      "prompt_scene": "汪洋海面中央立着一块“不老泉”木牌，浪花围着木牌旋转",
+      "prompt": "白底单幅中文创意插画，画幅内容是：汪洋海面中央立着一块“不老泉”木牌，浪花围着木牌旋转。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_3fd600239c50.png"
+    },
+    {
+      "item_id": "syn_l3_67e71762e054",
+      "source_idiom": "亡羊补牢",
+      "level": "L3",
+      "final_substituted_phrase": "汪洋补姥",
+      "prompt_scene": "辽阔的海洋在修补姥姥的画像",
+      "prompt": "白底单幅中文创意插画，画幅内容是：辽阔的海洋在修补姥姥的画像。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_67e71762e054.png"
+    },
+    {
+      "item_id": "syn_l1_dfbcd0134144",
+      "source_idiom": "交浅言深",
+      "level": "L1",
+      "final_substituted_phrase": "轿前言深",
+      "prompt_scene": "花轿前站着两个人低声长谈，脚边的对话气泡像深井一样下沉",
+      "prompt": "白底单幅中文创意插画，画幅内容是：花轿前站着两个人低声长谈，脚边的对话气泡像深井一样下沉。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_dfbcd0134144.png"
+    },
+    {
+      "item_id": "syn_l2_dd1dc94d7d84",
+      "source_idiom": "交浅言深",
+      "level": "L2",
+      "final_substituted_phrase": "轿前盐湖深",
+      "prompt_scene": "轿子前方是一片盐湖，湖水深到淹过轿夫的胸膛",
+      "prompt": "白底单幅中文创意插画，画幅内容是：轿子前方是一片盐湖，湖水深到淹过轿夫的胸膛。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_dd1dc94d7d84.png"
+    },
+    {
+      "item_id": "syn_l3_4f9074cd5ac2",
+      "source_idiom": "交浅言深",
+      "level": "L3",
+      "final_substituted_phrase": "轿前墨水深",
+      "prompt_scene": "花轿前洒开一滩很深的黑墨水，轿夫踮脚绕行",
+      "prompt": "白底单幅中文创意插画，画幅内容是：花轿前洒开一滩很深的黑墨水，轿夫踮脚绕行。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_4f9074cd5ac2.png"
+    },
+    {
+      "item_id": "syn_l4_0b4eed7a33c5",
+      "source_idiom": "交浅言深",
+      "level": "L4",
+      "final_substituted_phrase": "交浅墨水天庭",
+      "prompt_scene": "浅浅交叉的两条线旁，墨水瓶流出的墨迹画成云端天庭",
+      "prompt": "白底单幅中文创意插画，画幅内容是：浅浅交叉的两条线旁，墨水瓶流出的墨迹画成云端天庭。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_0b4eed7a33c5.png"
+    },
+    {
+      "item_id": "syn_l1_7f69fac9db45",
+      "source_idiom": "凿壁偷光",
+      "level": "L1",
+      "final_substituted_phrase": "枣树壁偷光",
+      "prompt_scene": "枣树枝贴着墙洞伸进屋里，枝头悄悄勾住一束漏出的灯光",
+      "prompt": "白底单幅中文创意插画，画幅内容是：枣树枝贴着墙洞伸进屋里，枝头悄悄勾住一束漏出的灯光。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_7f69fac9db45.png"
+    },
+    {
+      "item_id": "syn_l2_0da07bbdeb84",
+      "source_idiom": "凿壁偷光",
+      "level": "L2",
+      "final_substituted_phrase": "枣树壁画偷光",
+      "prompt_scene": "枣树贴着墙上的壁画生长，墙洞里伸出小手偷走一束光",
+      "prompt": "白底单幅中文创意插画，画幅内容是：枣树贴着墙上的壁画生长，墙洞里伸出小手偷走一束光。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_0da07bbdeb84.png"
+    },
+    {
+      "item_id": "syn_l3_c4365b5ce017",
+      "source_idiom": "凿壁偷光",
+      "level": "L3",
+      "final_substituted_phrase": "枣树尾巴偷光",
+      "prompt_scene": "枣树上翘着一条壁虎尾巴，正用小布袋偷收一束台灯光",
+      "prompt": "白底单幅中文创意插画，画幅内容是：枣树上翘着一条壁虎尾巴，正用小布袋偷收一束台灯光。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_c4365b5ce017.png"
+    },
+    {
+      "item_id": "syn_l4_394c77faf92f",
+      "source_idiom": "凿壁偷光",
+      "level": "L4",
+      "final_substituted_phrase": "仓颉尾巴偷光",
+      "prompt_scene": "仓颉名牌人物抓着一条长尾巴，从墙洞里偷走一束光",
+      "prompt": "白底单幅中文创意插画，画幅内容是：仓颉名牌人物抓着一条长尾巴，从墙洞里偷走一束光。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_394c77faf92f.png"
+    },
+    {
+      "item_id": "syn_l1_6eb04ae5526c",
+      "source_idiom": "分庭抗礼",
+      "level": "L1",
+      "final_substituted_phrase": "芬达庭抗礼",
+      "prompt_scene": "小庭院里，两位客人在一个“芬达”主题的庭院里拱手较劲",
+      "prompt": "白底单幅中文创意插画，画幅内容是：小庭院里，两位客人在一个“芬达”主题的庭院里拱手较劲。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_6eb04ae5526c.png"
+    },
+    {
+      "item_id": "syn_l2_5bcad842445f",
+      "source_idiom": "分庭抗礼",
+      "level": "L2",
+      "final_substituted_phrase": "芬达庭伉俪",
+      "prompt_scene": "一对伉俪在一个“芬达”主题的庭院里",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一对伉俪在一个“芬达”主题的庭院里。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_5bcad842445f.png"
+    },
+    {
+      "item_id": "syn_l3_ace7672ee488",
+      "source_idiom": "分庭抗礼",
+      "level": "L3",
+      "final_substituted_phrase": "火锅庭伉俪",
+      "prompt_scene": "一对伉俪在一个“火锅”主题的庭院里，桌上有芬达",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一对伉俪在一个“火锅”主题的庭院里，桌上有芬达。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_ace7672ee488.png"
+    },
+    {
+      "item_id": "syn_l4_5850e91f8971",
+      "source_idiom": "分庭抗礼",
+      "level": "L4",
+      "final_substituted_phrase": "火锅庭医院",
+      "prompt_scene": "一个“火锅”主题的庭院里开了一个医院",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个“火锅”主题的庭院里开了一个医院。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_5850e91f8971.png"
+    },
+    {
+      "item_id": "syn_l1_1327b8100345",
+      "source_idiom": "分道扬镳",
+      "level": "L1",
+      "final_substituted_phrase": "分岛屿扬镳",
+      "prompt_scene": "海面上两座小岛被水道分开，一副马镳从沙滩上高高扬起",
+      "prompt": "白底单幅中文创意插画，画幅内容是：海面上两座小岛被水道分开，一副马镳从沙滩上高高扬起。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_1327b8100345.png"
+    },
+    {
+      "item_id": "syn_l2_0c4dbc19d060",
+      "source_idiom": "分道扬镳",
+      "level": "L2",
+      "final_substituted_phrase": "分岛屿养膘",
+      "prompt_scene": "两座岛屿被海沟分开，岛上一头小猪正在吃饲料养膘",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两座岛屿被海沟分开，岛上一头小猪正在吃饲料养膘。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_0c4dbc19d060.png"
+    },
+    {
+      "item_id": "syn_l3_69cc83f507a8",
+      "source_idiom": "分道扬镳",
+      "level": "L3",
+      "final_substituted_phrase": "分关胜养膘",
+      "prompt_scene": "挂着“关胜”名牌的武将把饲料分堆，喂一匹胖马",
+      "prompt": "白底单幅中文创意插画，画幅内容是：挂着“关胜”名牌的武将把饲料分堆，喂一匹胖马。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_69cc83f507a8.png"
+    },
+    {
+      "item_id": "syn_l4_26cf87aa69ce",
+      "source_idiom": "分道扬镳",
+      "level": "L4",
+      "final_substituted_phrase": "分关胜扬华表",
+      "prompt_scene": "分岔路口站着关胜名牌人物，抬手扬起一座小华表模型",
+      "prompt": "白底单幅中文创意插画，画幅内容是：分岔路口站着关胜名牌人物，抬手扬起一座小华表模型。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_26cf87aa69ce.png"
+    },
+    {
+      "item_id": "syn_l1_822d8b9eb9fd",
+      "source_idiom": "南辕北辙",
+      "level": "L1",
+      "final_substituted_phrase": "南辕被蛰",
+      "prompt_scene": "一根车辕指向写着“南”的路牌，车夫手背被小虫蛰出红包",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一根车辕指向写着“南”的路牌，车夫手背被小虫蛰出红包。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_822d8b9eb9fd.png"
+    },
+    {
+      "item_id": "syn_l2_17bded0d7c70",
+      "source_idiom": "南辕北辙",
+      "level": "L2",
+      "final_substituted_phrase": "腩圆被蛰",
+      "prompt_scene": "一块圆圆的牛腩放在盘中，旁边蜜蜂把它蛰出小包",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一块圆圆的牛腩放在盘中，旁边蜜蜂把它蛰出小包。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_17bded0d7c70.png"
+    },
+    {
+      "item_id": "syn_l3_7416aee594cc",
+      "source_idiom": "南辕北辙",
+      "level": "L3",
+      "final_substituted_phrase": "南辕床甘蔗",
+      "prompt_scene": "车辕朝南的小车上，一张床上整齐铺着几根甘蔗",
+      "prompt": "白底单幅中文创意插画，画幅内容是：车辕朝南的小车上，一张床上整齐铺着几根甘蔗。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_7416aee594cc.png"
+    },
+    {
+      "item_id": "syn_l4_712636c563f9",
+      "source_idiom": "南辕北辙",
+      "level": "L4",
+      "final_substituted_phrase": "电影床辙",
+      "prompt_scene": "电影片场里，电影里有个男演员，一张带轮子的床在地上压出清楚车辙",
+      "prompt": "白底单幅中文创意插画，画幅内容是：电影片场里，电影里有个男演员，一张带轮子的床在地上压出清楚车辙。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_712636c563f9.png"
+    },
+    {
+      "item_id": "syn_l1_c7032c572fcb",
+      "source_idiom": "卧薪尝胆",
+      "level": "L1",
+      "final_substituted_phrase": "握手薪尝胆",
+      "prompt_scene": "两只薪柴握着手，一起皱眉用小勺尝苦胆",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两只薪柴握着手，一起皱眉用小勺尝苦胆。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_c7032c572fcb.png"
+    },
+    {
+      "item_id": "syn_l2_f1fdb65345c6",
+      "source_idiom": "卧薪尝胆",
+      "level": "L2",
+      "final_substituted_phrase": "握手新厂胆",
+      "prompt_scene": "两个新出厂的胆囊模型在握手",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两个新出厂的胆囊模型在握手。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_f1fdb65345c6.png"
+    },
+    {
+      "item_id": "syn_l3_262aaf39dc70",
+      "source_idiom": "卧薪尝胆",
+      "level": "L3",
+      "final_substituted_phrase": "握手卤煮胆",
+      "prompt_scene": "一锅卤煮里面，两个胆在握手，旁边还有心、肠",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一锅卤煮里面，两个胆在握手，旁边还有心、肠。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_262aaf39dc70.png"
+    },
+    {
+      "item_id": "syn_l4_8b25fb23fdaf",
+      "source_idiom": "卧薪尝胆",
+      "level": "L4",
+      "final_substituted_phrase": "火车卤煮胆",
+      "prompt_scene": "火车餐车里端着一碗卤煮，里面有心、肠和胆",
+      "prompt": "白底单幅中文创意插画，画幅内容是：火车餐车里端着一碗卤煮，里面有心、肠和胆。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_8b25fb23fdaf.png"
+    },
+    {
+      "item_id": "syn_l1_2d4616e0dbb0",
+      "source_idiom": "口蜜腹剑",
+      "level": "L1",
+      "final_substituted_phrase": "口米腹剑",
+      "prompt_scene": "张开的嘴里含着几粒白米，肚皮前贴着一把短剑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：张开的嘴里含着几粒白米，肚皮前贴着一把短剑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_2d4616e0dbb0.png"
+    },
+    {
+      "item_id": "syn_l2_08d70a2b8b60",
+      "source_idiom": "口蜜腹剑",
+      "level": "L2",
+      "final_substituted_phrase": "口哨米腹剑",
+      "prompt_scene": "一只嘴吹着口哨，米粒落在肚子旁的玩具剑上",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只嘴吹着口哨，米粒落在肚子旁的玩具剑上。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_08d70a2b8b60.png"
+    },
+    {
+      "item_id": "syn_l3_ed0278d6571c",
+      "source_idiom": "口蜜腹剑",
+      "level": "L3",
+      "final_substituted_phrase": "医院米腹剑",
+      "prompt_scene": "医院病床上，患者肚子里有一袋大米和短剑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：医院病床上，患者肚子里有一袋大米和短剑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_ed0278d6571c.png"
+    },
+    {
+      "item_id": "syn_l4_96d712b0ba4d",
+      "source_idiom": "口蜜腹剑",
+      "level": "L4",
+      "final_substituted_phrase": "医院演员腹剑",
+      "prompt_scene": "医院病房里，演员把一把玩具剑贴在肚子前摆姿势",
+      "prompt": "白底单幅中文创意插画，画幅内容是：医院病房里，演员把一把玩具剑贴在肚子前摆姿势。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_96d712b0ba4d.png"
+    },
+    {
+      "item_id": "syn_l1_7e72fdbcd639",
+      "source_idiom": "叶公好龙",
+      "level": "L1",
+      "final_substituted_phrase": "椰公好龙",
+      "prompt_scene": "椰子老先生抱着龙玩偶，眼睛发亮地抚摸龙角",
+      "prompt": "白底单幅中文创意插画，画幅内容是：椰子老先生抱着龙玩偶，眼睛发亮地抚摸龙角。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_7e72fdbcd639.png"
+    },
+    {
+      "item_id": "syn_l2_13ff603694b7",
+      "source_idiom": "叶公好龙",
+      "level": "L2",
+      "final_substituted_phrase": "椰公号角龙",
+      "prompt_scene": "椰子戴着礼帽像公爵一样站着，举起号角对着小龙吹响",
+      "prompt": "白底单幅中文创意插画，画幅内容是：椰子戴着礼帽像公爵一样站着，举起号角对着小龙吹响。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_13ff603694b7.png"
+    },
+    {
+      "item_id": "syn_l3_67f8bdac5278",
+      "source_idiom": "叶公好龙",
+      "level": "L3",
+      "final_substituted_phrase": "椰公好东海",
+      "prompt_scene": "椰子造型的老公公捧着东海海图，脸上露出喜欢的笑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：椰子造型的老公公捧着东海海图，脸上露出喜欢的笑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_67f8bdac5278.png"
+    },
+    {
+      "item_id": "syn_l4_16909342b7ed",
+      "source_idiom": "叶公好龙",
+      "level": "L4",
+      "final_substituted_phrase": "书页公好东海",
+      "prompt_scene": "摊开的书页上，一位公爵对东海地图竖起大拇指",
+      "prompt": "白底单幅中文创意插画，画幅内容是：摊开的书页上，一位公爵对东海地图竖起大拇指。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_16909342b7ed.png"
+    },
+    {
+      "item_id": "syn_l1_b7944de22a4f",
+      "source_idiom": "唇亡齿寒",
+      "level": "L1",
+      "final_substituted_phrase": "香椿亡齿寒",
+      "prompt_scene": "一把香椿叶旁竖着写“已失”的小牌，一排牙齿裹围巾发抖",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一把香椿叶旁竖着写“已失”的小牌，一排牙齿裹围巾发抖。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_b7944de22a4f.png"
+    },
+    {
+      "item_id": "syn_l2_7f84899da9ac",
+      "source_idiom": "唇亡齿寒",
+      "level": "L2",
+      "final_substituted_phrase": "香椿亡痴汉",
+      "prompt_scene": "一棵枯萎的香椿倒在路边，旁边有一个电车痴汉",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一棵枯萎的香椿倒在路边，旁边有一个电车痴汉。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_7f84899da9ac.png"
+    },
+    {
+      "item_id": "syn_l3_8c648e156dbd",
+      "source_idiom": "唇亡齿寒",
+      "level": "L3",
+      "final_substituted_phrase": "香椿国王齿寒",
+      "prompt_scene": "香椿国王在嚼冰块，牙齿发抖",
+      "prompt": "白底单幅中文创意插画，画幅内容是：香椿国王在嚼冰块，牙齿发抖。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_8c648e156dbd.png"
+    },
+    {
+      "item_id": "syn_l4_2f89c8ec004a",
+      "source_idiom": "唇亡齿寒",
+      "level": "L4",
+      "final_substituted_phrase": "口红国王齿寒",
+      "prompt_scene": "国王涂着口红，张嘴露出冷得发抖的牙齿",
+      "prompt": "白底单幅中文创意插画，画幅内容是：国王涂着口红，张嘴露出冷得发抖的牙齿。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_2f89c8ec004a.png"
+    },
+    {
+      "item_id": "syn_l1_d2c31792b334",
+      "source_idiom": "喜形于色",
+      "level": "L1",
+      "final_substituted_phrase": "喜形玉色",
+      "prompt_scene": "浅绿玉佩上浮出笑脸形轮廓，旁边散着柔和的绿色光晕",
+      "prompt": "白底单幅中文创意插画，画幅内容是：浅绿玉佩上浮出笑脸形轮廓，旁边散着柔和的绿色光晕。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_d2c31792b334.png"
+    },
+    {
+      "item_id": "syn_l2_91005c67898f",
+      "source_idiom": "喜形于色",
+      "level": "L2",
+      "final_substituted_phrase": "喜星玉色",
+      "prompt_scene": "一颗笑脸星星捧着玉石色调色盘，把天空刷成浅绿色",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一颗笑脸星星捧着玉石色调色盘，把天空刷成浅绿色。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_91005c67898f.png"
+    },
+    {
+      "item_id": "syn_l3_d37ff8ec5740",
+      "source_idiom": "喜形于色",
+      "level": "L3",
+      "final_substituted_phrase": "唐僧玉色",
+      "prompt_scene": "唐僧端详一块青玉，袈裟被映成淡绿色",
+      "prompt": "白底单幅中文创意插画，画幅内容是：唐僧端详一块青玉，袈裟被映成淡绿色。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_d37ff8ec5740.png"
+    },
+    {
+      "item_id": "syn_l4_2ef03165be63",
+      "source_idiom": "喜形于色",
+      "level": "L4",
+      "final_substituted_phrase": "唐僧孔雀色",
+      "prompt_scene": "唐僧名牌人物拿着孔雀羽毛，把调色盘调成鲜艳颜色",
+      "prompt": "白底单幅中文创意插画，画幅内容是：唐僧名牌人物拿着孔雀羽毛，把调色盘调成鲜艳颜色。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_2ef03165be63.png"
+    },
+    {
+      "item_id": "syn_l1_c80cc88e1e82",
+      "source_idiom": "天罗地网",
+      "level": "L1",
+      "final_substituted_phrase": "天罗弟网",
+      "prompt_scene": "天空垂下一张大网，把一个小男孩困在网里，小男孩喊着“哥哥救我”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：天空垂下一张大网，把一个小男孩困在网里，小男孩喊着“哥哥救我”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_c80cc88e1e82.png"
+    },
+    {
+      "item_id": "syn_l2_e36c0df791ca",
+      "source_idiom": "天罗地网",
+      "level": "L2",
+      "final_substituted_phrase": "甜萝卜弟网",
+      "prompt_scene": "甜萝卜弟弟蹲在地上结网，喊着“哥哥”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：甜萝卜弟弟蹲在地上结网，喊着“哥哥”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_e36c0df791ca.png"
+    },
+    {
+      "item_id": "syn_l3_eff61edd9f94",
+      "source_idiom": "天罗地网",
+      "level": "L3",
+      "final_substituted_phrase": "天罗弟狗",
+      "prompt_scene": "从天空垂下的大网罩住小弟和小狗，两者挤在网底",
+      "prompt": "白底单幅中文创意插画，画幅内容是：从天空垂下的大网罩住小弟和小狗，两者挤在网底。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_eff61edd9f94.png"
+    },
+    {
+      "item_id": "syn_l4_0ab2c81445ce",
+      "source_idiom": "天罗地网",
+      "level": "L4",
+      "final_substituted_phrase": "天罗萧炎狗",
+      "prompt_scene": "天空垂下大网，萧炎名牌人物喊着“放开我的汪星人”，小狗被困在网里",
+      "prompt": "白底单幅中文创意插画，画幅内容是：天空垂下大网，萧炎名牌人物喊着“放开我的汪星人”，小狗被困在网里。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_0ab2c81445ce.png"
+    },
+    {
+      "item_id": "syn_l1_8b5cbcdca09b",
+      "source_idiom": "奴颜婢膝",
+      "level": "L1",
+      "final_substituted_phrase": "怒颜婢膝",
+      "prompt_scene": "跪地侍女的膝盖，膝边裙摆贴着地面，脸上露出愤怒表情",
+      "prompt": "白底单幅中文创意插画，画幅内容是：跪地侍女的膝盖，膝边裙摆贴着地面，脸上露出愤怒表情。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_8b5cbcdca09b.png"
+    },
+    {
+      "item_id": "syn_l2_b0c4d1a98876",
+      "source_idiom": "奴颜婢膝",
+      "level": "L2",
+      "final_substituted_phrase": "怒颜碧玉膝",
+      "prompt_scene": "一张生气的脸贴在碧玉做的护膝上，膝盖位置泛着绿光",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一张生气的脸贴在碧玉做的护膝上，膝盖位置泛着绿光。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_b0c4d1a98876.png"
+    },
+    {
+      "item_id": "syn_l3_5b2cfa39512e",
+      "source_idiom": "奴颜婢膝",
+      "level": "L3",
+      "final_substituted_phrase": "怒颜婢奶茶",
+      "prompt_scene": "穿女仆裙的侍女皱着怒脸，把奶茶重重放在托盘上",
+      "prompt": "白底单幅中文创意插画，画幅内容是：穿女仆裙的侍女皱着怒脸，把奶茶重重放在托盘上。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_5b2cfa39512e.png"
+    },
+    {
+      "item_id": "syn_l4_caa7e82f46dc",
+      "source_idiom": "奴颜婢膝",
+      "level": "L4",
+      "final_substituted_phrase": "奴颜匹诺曹奶茶",
+      "prompt_scene": "一脸谄媚的匹诺曹用长鼻子碰着奶茶吸管",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一脸谄媚的匹诺曹用长鼻子碰着奶茶吸管。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_caa7e82f46dc.png"
+    },
+    {
+      "item_id": "syn_l1_2ad42c08b4eb",
+      "source_idiom": "守株待兔",
+      "level": "L1",
+      "final_substituted_phrase": "兽株待兔",
+      "prompt_scene": "一个树妖怪兽在家里等着兔子来吃晚饭，桌子上有饭，他在念叨着“兔子什么时候来啊”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个树妖怪兽在家里等着兔子来吃晚饭，桌子上有饭，他在念叨着“兔子什么时候来啊”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_2ad42c08b4eb.png"
+    },
+    {
+      "item_id": "syn_l2_269b2b8fa61c",
+      "source_idiom": "守株待兔",
+      "level": "L2",
+      "final_substituted_phrase": "兽株带子兔",
+      "prompt_scene": "一只小兽坐在树桩旁，用彩色带子牵着一只兔子",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只小兽坐在树桩旁，用彩色带子牵着一只兔子。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_269b2b8fa61c.png"
+    },
+    {
+      "item_id": "syn_l3_549f79cbf7d0",
+      "source_idiom": "守株待兔",
+      "level": "L3",
+      "final_substituted_phrase": "兽笋待兔",
+      "prompt_scene": "一只小兽和一个竹笋，围在饭桌前等待兔子跑来，兔子在远处开着车，举着电话说“我在路上了”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只小兽和一个竹笋，围在饭桌前等待兔子跑来，兔子在远处开着车，举着电话说“我在路上了”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_549f79cbf7d0.png"
+    },
+    {
+      "item_id": "syn_l4_04cdb2a64a4d",
+      "source_idiom": "守株待兔",
+      "level": "L4",
+      "final_substituted_phrase": "减肥笋待兔",
+      "prompt_scene": "健身房里一个竹笋在跑步机上，等兔子来，兔子在门口背着健身包走过来",
+      "prompt": "白底单幅中文创意插画，画幅内容是：健身房里一个竹笋在跑步机上，等兔子来，兔子在门口背着健身包走过来。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_04cdb2a64a4d.png"
+    },
+    {
+      "item_id": "syn_l1_e506abf8fac4",
+      "source_idiom": "对牛弹琴",
+      "level": "L1",
+      "final_substituted_phrase": "对妞弹琴",
+      "prompt_scene": "一位小姑娘坐在琴前，琴师正面对她拨弦，声波轻轻飘过去",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一位小姑娘坐在琴前，琴师正面对她拨弦，声波轻轻飘过去。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_e506abf8fac4.png"
+    },
+    {
+      "item_id": "syn_l2_46bc4868f1d3",
+      "source_idiom": "对牛弹琴",
+      "level": "L2",
+      "final_substituted_phrase": "对妞谈情",
+      "prompt_scene": "一位年轻女孩坐在一个大爷对面，两人面对面用爱心气泡聊天",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一位年轻女孩坐在一个大爷对面，两人面对面用爱心气泡聊天。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_46bc4868f1d3.png"
+    },
+    {
+      "item_id": "syn_l3_f8c3aa97934a",
+      "source_idiom": "对牛弹琴",
+      "level": "L3",
+      "final_substituted_phrase": "对妞吐痰琴",
+      "prompt_scene": "有人朝着一个弹琴的小姑娘吐痰，痰落在琴上",
+      "prompt": "白底单幅中文创意插画，画幅内容是：有人朝着一个弹琴的小姑娘吐痰，痰落在琴上。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_f8c3aa97934a.png"
+    },
+    {
+      "item_id": "syn_l1_f11a1fa35c4f",
+      "source_idiom": "平易近人",
+      "level": "L1",
+      "final_substituted_phrase": "平移近人",
+      "prompt_scene": "一个方块沿水平虚线滑向站着的人，地面有起点和终点小标记",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个方块沿水平虚线滑向站着的人，地面有起点和终点小标记。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_f11a1fa35c4f.png"
+    },
+    {
+      "item_id": "syn_l2_010e9da6698d",
+      "source_idiom": "平易近人",
+      "level": "L2",
+      "final_substituted_phrase": "平移亲人",
+      "prompt_scene": "几何图形沿虚线平移，终点处站着一位挥手的亲人",
+      "prompt": "白底单幅中文创意插画，画幅内容是：几何图形沿虚线平移，终点处站着一位挥手的亲人。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_010e9da6698d.png"
+    },
+    {
+      "item_id": "syn_l3_46db3e60c367",
+      "source_idiom": "平易近人",
+      "level": "L3",
+      "final_substituted_phrase": "平移山西",
+      "prompt_scene": "地图上标着“山西”的板块被箭头水平推到右侧",
+      "prompt": "白底单幅中文创意插画，画幅内容是：地图上标着“山西”的板块被箭头水平推到右侧。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_46db3e60c367.png"
+    },
+    {
+      "item_id": "syn_l4_e93383564861",
+      "source_idiom": "平易近人",
+      "level": "L4",
+      "final_substituted_phrase": "寺庙汉服人",
+      "prompt_scene": "寺庙台阶上，一个穿汉服的人正在低头整理衣襟",
+      "prompt": "白底单幅中文创意插画，画幅内容是：寺庙台阶上，一个穿汉服的人正在低头整理衣襟。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_e93383564861.png"
+    },
+    {
+      "item_id": "syn_l1_c2d04acf163f",
+      "source_idiom": "得意忘形",
+      "level": "L1",
+      "final_substituted_phrase": "得医生忘形",
+      "prompt_scene": "医生递出诊断单，病人接过后身体轮廓逐渐淡成虚线",
+      "prompt": "白底单幅中文创意插画，画幅内容是：医生递出诊断单，病人接过后身体轮廓逐渐淡成虚线。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_c2d04acf163f.png"
+    },
+    {
+      "item_id": "syn_l2_1598028f8aaa",
+      "source_idiom": "得意忘形",
+      "level": "L2",
+      "final_substituted_phrase": "得医生望星",
+      "prompt_scene": "一个姓得得医生（胸前挂着名牌“得xx”）站在窗边，抬头望向星空",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个姓得得医生（胸前挂着名牌“得xx”）站在窗边，抬头望向星空。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_1598028f8aaa.png"
+    },
+    {
+      "item_id": "syn_l3_c7cc912f2a0e",
+      "source_idiom": "得意忘形",
+      "level": "L3",
+      "final_substituted_phrase": "牛奶望星",
+      "prompt_scene": "一盒牛奶架着小望远镜，在夜窗前仰头看星星",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一盒牛奶架着小望远镜，在夜窗前仰头看星星。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_c7cc912f2a0e.png"
+    },
+    {
+      "item_id": "syn_l4_9de77ea513dd",
+      "source_idiom": "得意忘形",
+      "level": "L4",
+      "final_substituted_phrase": "牛奶国王形",
+      "prompt_scene": "把得益牛奶倒进国王形模具里，模具上有皇冠和王冠的装饰",
+      "prompt": "白底单幅中文创意插画，画幅内容是：把得益牛奶倒进国王形模具里，模具上有皇冠和王冠的装饰。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_9de77ea513dd.png"
+    },
+    {
+      "item_id": "syn_l1_67b4fbe3db41",
+      "source_idiom": "惊弓之鸟",
+      "level": "L1",
+      "final_substituted_phrase": "惊弓纸鸟",
+      "prompt_scene": "桌上的纸鸟被拉满的弓吓得翅角翘起，纸面画出颤抖线",
+      "prompt": "白底单幅中文创意插画，画幅内容是：桌上的纸鸟被拉满的弓吓得翅角翘起，纸面画出颤抖线。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_67b4fbe3db41.png"
+    },
+    {
+      "item_id": "syn_l2_45c0c81ee20d",
+      "source_idiom": "惊弓之鸟",
+      "level": "L2",
+      "final_substituted_phrase": "眼睛弓纸鸟",
+      "prompt_scene": "一只巨大的眼睛盯着弓，旁边纸折小鸟扑扇翅膀",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只巨大的眼睛盯着弓，旁边纸折小鸟扑扇翅膀。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_45c0c81ee20d.png"
+    },
+    {
+      "item_id": "syn_l3_146eecf0e865",
+      "source_idiom": "惊弓之鸟",
+      "level": "L3",
+      "final_substituted_phrase": "惊公鸡纸鸟",
+      "prompt_scene": "公鸡被忽然飞起的纸鸟吓得翅膀张开",
+      "prompt": "白底单幅中文创意插画，画幅内容是：公鸡被忽然飞起的纸鸟吓得翅膀张开。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_146eecf0e865.png"
+    },
+    {
+      "item_id": "syn_l4_f560004e399e",
+      "source_idiom": "惊弓之鸟",
+      "level": "L4",
+      "final_substituted_phrase": "惊公鸡婴儿",
+      "prompt_scene": "受惊的公鸡站在婴儿摇篮旁，羽毛炸起，婴儿在啼哭",
+      "prompt": "白底单幅中文创意插画，画幅内容是：受惊的公鸡站在婴儿摇篮旁，羽毛炸起，婴儿在啼哭。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_f560004e399e.png"
+    },
+    {
+      "item_id": "syn_l1_b86a46803baf",
+      "source_idiom": "指鹿为马",
+      "level": "L1",
+      "final_substituted_phrase": "指路为马",
+      "prompt_scene": "路口指示牌的箭头指着一匹马，行人正顺着箭头走向马",
+      "prompt": "白底单幅中文创意插画，画幅内容是：路口指示牌的箭头指着一匹马，行人正顺着箭头走向马。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_b86a46803baf.png"
+    },
+    {
+      "item_id": "syn_l2_af223fd1fa6a",
+      "source_idiom": "指鹿为马",
+      "level": "L2",
+      "final_substituted_phrase": "指路喂马",
+      "prompt_scene": "路口有人伸出一只手指给行人指路，行人拿着草料准备去喂马",
+      "prompt": "白底单幅中文创意插画，画幅内容是：路口有人伸出一只手指给行人指路，行人拿着草料准备去喂马。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_af223fd1fa6a.png"
+    },
+    {
+      "item_id": "syn_l3_54f44085d943",
+      "source_idiom": "指鹿为马",
+      "level": "L3",
+      "final_substituted_phrase": "指路马夫",
+      "prompt_scene": "马夫牵着马站在路口，用手指向路牌方向",
+      "prompt": "白底单幅中文创意插画，画幅内容是：马夫牵着马站在路口，用手指向路牌方向。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_54f44085d943.png"
+    },
+    {
+      "item_id": "syn_l4_8dc2d5faee15",
+      "source_idiom": "指鹿为马",
+      "level": "L4",
+      "final_substituted_phrase": "交警马夫",
+      "prompt_scene": "交警牵着马当马夫，在路口指挥交通",
+      "prompt": "白底单幅中文创意插画，画幅内容是：交警牵着马当马夫，在路口指挥交通。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_8dc2d5faee15.png"
+    },
+    {
+      "item_id": "syn_l1_962d3badf4e3",
+      "source_idiom": "推心置腹",
+      "level": "L1",
+      "final_substituted_phrase": "推门心置腹",
+      "prompt_scene": "人推开半掩的门，把一颗红心轻轻放到肚子前的小托盘上",
+      "prompt": "白底单幅中文创意插画，画幅内容是：人推开半掩的门，把一颗红心轻轻放到肚子前的小托盘上。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_962d3badf4e3.png"
+    },
+    {
+      "item_id": "syn_l2_f8360009f5e5",
+      "source_idiom": "推心置腹",
+      "level": "L2",
+      "final_substituted_phrase": "推门芯片置腹",
+      "prompt_scene": "人物推开门，有一枚芯片被贴在肚子位置",
+      "prompt": "白底单幅中文创意插画，画幅内容是：人物推开门，有一枚芯片被贴在肚子位置。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_f8360009f5e5.png"
+    },
+    {
+      "item_id": "syn_l3_406b5b6179fe",
+      "source_idiom": "推心置腹",
+      "level": "L3",
+      "final_substituted_phrase": "推门婚纱置腹",
+      "prompt_scene": "新娘穿婚纱推开门，把一只小包轻轻放到腹前",
+      "prompt": "白底单幅中文创意插画，画幅内容是：新娘穿婚纱推开门，把一只小包轻轻放到腹前。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_406b5b6179fe.png"
+    },
+    {
+      "item_id": "syn_l4_cf9cc14379f0",
+      "source_idiom": "推心置腹",
+      "level": "L4",
+      "final_substituted_phrase": "毛驴婚纱置腹",
+      "prompt_scene": "毛驴把一件婚纱轻轻顶到假人肚子前",
+      "prompt": "白底单幅中文创意插画，画幅内容是：毛驴把一件婚纱轻轻顶到假人肚子前。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_cf9cc14379f0.png"
+    },
+    {
+      "item_id": "syn_l1_55a54b5b403a",
+      "source_idiom": "掩耳盗铃",
+      "level": "L1",
+      "final_substituted_phrase": "燕耳盗铃",
+      "prompt_scene": "一只燕子露着夸张小耳朵，旁边小偷踮脚把铃铛从燕子耳朵上摘下",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只燕子露着夸张小耳朵，旁边小偷踮脚把铃铛从燕子耳朵上摘下。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_55a54b5b403a.png"
+    },
+    {
+      "item_id": "syn_l2_dd4b735d36d3",
+      "source_idiom": "掩耳盗铃",
+      "level": "L2",
+      "final_substituted_phrase": "燕耳盗铃声",
+      "prompt_scene": "燕子长着夸张大耳朵，用耳朵把一个人的手机铃声勾走了",
+      "prompt": "白底单幅中文创意插画，画幅内容是：燕子长着夸张大耳朵，用耳朵把一个人的手机铃声勾走了。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_dd4b735d36d3.png"
+    },
+    {
+      "item_id": "syn_l3_85d251461fd5",
+      "source_idiom": "掩耳盗铃",
+      "level": "L3",
+      "final_substituted_phrase": "燕耳晚会铃",
+      "prompt_scene": "晚会舞台上，燕子用耳朵敲击铃铛作伴奏",
+      "prompt": "白底单幅中文创意插画，画幅内容是：晚会舞台上，燕子用耳朵敲击铃铛作伴奏。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_85d251461fd5.png"
+    },
+    {
+      "item_id": "syn_l4_d146da340176",
+      "source_idiom": "掩耳盗铃",
+      "level": "L4",
+      "final_substituted_phrase": "眼镜耳晚会铃",
+      "prompt_scene": "戴眼镜的大耳朵参加晚会，眼镜腿上挂着小铃铛",
+      "prompt": "白底单幅中文创意插画，画幅内容是：戴眼镜的大耳朵参加晚会，眼镜腿上挂着小铃铛。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_d146da340176.png"
+    },
+    {
+      "item_id": "syn_l1_c9b968324bf2",
+      "source_idiom": "握手言欢",
+      "level": "L1",
+      "final_substituted_phrase": "蜗牛手言欢",
+      "prompt_scene": "蜗牛挥舞双手，说“我真开心”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：蜗牛挥舞双手，说“我真开心”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_c9b968324bf2.png"
+    },
+    {
+      "item_id": "syn_l2_ff36dfbdb195",
+      "source_idiom": "握手言欢",
+      "level": "L2",
+      "final_substituted_phrase": "蜗牛手烟环",
+      "prompt_scene": "蜗牛伸出小手，触碰吹出的一圈灰白色烟环",
+      "prompt": "白底单幅中文创意插画，画幅内容是：蜗牛伸出小手，触碰吹出的一圈灰白色烟环。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_ff36dfbdb195.png"
+    },
+    {
+      "item_id": "syn_l3_7c87860e1f74",
+      "source_idiom": "握手言欢",
+      "level": "L3",
+      "final_substituted_phrase": "床手烟环",
+      "prompt_scene": "床沿伸出一只手，在台灯光里拨弄漂浮的烟环",
+      "prompt": "白底单幅中文创意插画，画幅内容是：床沿伸出一只手，在台灯光里拨弄漂浮的烟环。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_7c87860e1f74.png"
+    },
+    {
+      "item_id": "syn_l4_23f9c94c83d3",
+      "source_idiom": "握手言欢",
+      "level": "L4",
+      "final_substituted_phrase": "床权势欢",
+      "prompt_scene": "床上躺着一个拿权杖的人，朝着床边盖章的人物举杯欢笑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：床上躺着一个拿权杖的人，朝着床边盖章的人物举杯欢笑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_23f9c94c83d3.png"
+    },
+    {
+      "item_id": "syn_l1_15bc5412dd5a",
+      "source_idiom": "朝三暮四",
+      "level": "L1",
+      "final_substituted_phrase": "朝散步暮四",
+      "prompt_scene": "朝阳下的人沿小路散步，回忆着昨天傍晚的路牌上清楚写着“xx4号”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：朝阳下的人沿小路散步，回忆着昨天傍晚的路牌上清楚写着“xx4号”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_15bc5412dd5a.png"
+    },
+    {
+      "item_id": "syn_l2_5feaa26301fa",
+      "source_idiom": "朝三暮四",
+      "level": "L2",
+      "final_substituted_phrase": "朝散步慕斯",
+      "prompt_scene": "清晨小路上有人散步，手里端着一块慕斯甜点",
+      "prompt": "白底单幅中文创意插画，画幅内容是：清晨小路上有人散步，手里端着一块慕斯甜点。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_5feaa26301fa.png"
+    },
+    {
+      "item_id": "syn_l3_db9adbbf10ca",
+      "source_idiom": "朝三暮四",
+      "level": "L3",
+      "final_substituted_phrase": "举报散步暮四",
+      "prompt_scene": "傍晚四点的公园里，散步者举手机向公告箱提交举报",
+      "prompt": "白底单幅中文创意插画，画幅内容是：傍晚四点的公园里，散步者举手机向公告箱提交举报。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_db9adbbf10ca.png"
+    },
+    {
+      "item_id": "syn_l4_aabb978fd51f",
+      "source_idiom": "朝三暮四",
+      "level": "L4",
+      "final_substituted_phrase": "举报唐僧暮四",
+      "prompt_scene": "孙悟空向观音举报唐僧昨天傍晚偷了四个人参果",
+      "prompt": "白底单幅中文创意插画，画幅内容是：孙悟空向观音举报唐僧昨天傍晚偷了四个人参果。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_aabb978fd51f.png"
+    },
+    {
+      "item_id": "syn_l1_b3a0843fbf0d",
+      "source_idiom": "杯弓蛇影",
+      "level": "L1",
+      "final_substituted_phrase": "奖杯弓蛇影",
+      "prompt_scene": "奖杯上映出有人弯弓射蛇的影子",
+      "prompt": "白底单幅中文创意插画，画幅内容是：奖杯上映出有人弯弓射蛇的影子。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_b3a0843fbf0d.png"
+    },
+    {
+      "item_id": "syn_l2_0e7f14493592",
+      "source_idiom": "杯弓蛇影",
+      "level": "L2",
+      "final_substituted_phrase": "杯子公鸡蛇影",
+      "prompt_scene": "杯子里倒映着公鸡和蛇的影子，杯沿有弯弓形高光",
+      "prompt": "白底单幅中文创意插画，画幅内容是：杯子里倒映着公鸡和蛇的影子，杯沿有弯弓形高光。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_0e7f14493592.png"
+    },
+    {
+      "item_id": "syn_l3_9cae9af2a890",
+      "source_idiom": "杯弓蛇影",
+      "level": "L3",
+      "final_substituted_phrase": "冠军公鸡蛇影",
+      "prompt_scene": "戴金牌的冠军公鸡站在领奖台上，脚边投出蛇形影子",
+      "prompt": "白底单幅中文创意插画，画幅内容是：戴金牌的冠军公鸡站在领奖台上，脚边投出蛇形影子。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_9cae9af2a890.png"
+    },
+    {
+      "item_id": "syn_l4_586257711a0f",
+      "source_idiom": "杯弓蛇影",
+      "level": "L4",
+      "final_substituted_phrase": "冠军后羿蛇影",
+      "prompt_scene": "冠军领奖台上，后羿名牌人物拉弓瞄准墙上的蛇影",
+      "prompt": "白底单幅中文创意插画，画幅内容是：冠军领奖台上，后羿名牌人物拉弓瞄准墙上的蛇影。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_586257711a0f.png"
+    },
+    {
+      "item_id": "syn_l1_40d4a82597e5",
+      "source_idiom": "欺世盗名",
+      "level": "L1",
+      "final_substituted_phrase": "七十盗名",
+      "prompt_scene": "写着“70”的人物戴黑帽，正把门口姓名牌悄悄摘下来",
+      "prompt": "白底单幅中文创意插画，画幅内容是：写着“70”的人物戴黑帽，正把门口姓名牌悄悄摘下来。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_40d4a82597e5.png"
+    },
+    {
+      "item_id": "syn_l2_6ea34a0a4398",
+      "source_idiom": "欺世盗名",
+      "level": "L2",
+      "final_substituted_phrase": "七十盗明星",
+      "prompt_scene": "数字70戴着小面罩，正偷走明星海报上的姓名牌",
+      "prompt": "白底单幅中文创意插画，画幅内容是：数字70戴着小面罩，正偷走明星海报上的姓名牌。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_6ea34a0a4398.png"
+    },
+    {
+      "item_id": "syn_l3_a03d1816746e",
+      "source_idiom": "欺世盗名",
+      "level": "L3",
+      "final_substituted_phrase": "七十厨房名",
+      "prompt_scene": "厨房门口挂着七十号牌，灶台上放着写有名字的餐牌",
+      "prompt": "白底单幅中文创意插画，画幅内容是：厨房门口挂着七十号牌，灶台上放着写有名字的餐牌。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_a03d1816746e.png"
+    },
+    {
+      "item_id": "syn_l4_3b128f13c664",
+      "source_idiom": "欺世盗名",
+      "level": "L4",
+      "final_substituted_phrase": "公主厨房名",
+      "prompt_scene": "公主在厨房里给调料罐贴姓名牌",
+      "prompt": "白底单幅中文创意插画，画幅内容是：公主在厨房里给调料罐贴姓名牌。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_3b128f13c664.png"
+    },
+    {
+      "item_id": "syn_l1_ad3b365a67c1",
+      "source_idiom": "毛遂自荐",
+      "level": "L1",
+      "final_substituted_phrase": "帽穗自荐",
+      "prompt_scene": "一顶带长穗的帽子从桌边探出，双手递上一封写着“推荐”的信",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一顶带长穗的帽子从桌边探出，双手递上一封写着“推荐”的信。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_ad3b365a67c1.png"
+    },
+    {
+      "item_id": "syn_l2_d827c5293432",
+      "source_idiom": "毛遂自荐",
+      "level": "L2",
+      "final_substituted_phrase": "帽穗紫剑",
+      "prompt_scene": "帽子上的长穗垂到桌面，末端挂着一把紫色宝剑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：帽子上的长穗垂到桌面，末端挂着一把紫色宝剑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_d827c5293432.png"
+    },
+    {
+      "item_id": "syn_l3_159cce8fafa3",
+      "source_idiom": "毛遂自荐",
+      "level": "L3",
+      "final_substituted_phrase": "帽穗字典荐",
+      "prompt_scene": "帽穗垂在翻开的字典上，旁边夹着一张推荐卡",
+      "prompt": "白底单幅中文创意插画，画幅内容是：帽穗垂在翻开的字典上，旁边夹着一张推荐卡。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_159cce8fafa3.png"
+    },
+    {
+      "item_id": "syn_l4_c627d90a0972",
+      "source_idiom": "毛遂自荐",
+      "level": "L4",
+      "final_substituted_phrase": "毛遂字典剑客",
+      "prompt_scene": "字典里的毛遂跳出来变成了一位剑客",
+      "prompt": "白底单幅中文创意插画，画幅内容是：字典里的毛遂跳出来变成了一位剑客。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_c627d90a0972.png"
+    },
+    {
+      "item_id": "syn_l1_cff624845bdb",
+      "source_idiom": "滥竽充数",
+      "level": "L1",
+      "final_substituted_phrase": "滥竽充树",
+      "prompt_scene": "一棵树的树洞里塞满破旧竽管，枝头还挂着几支歪斜吹管",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一棵树的树洞里塞满破旧竽管，枝头还挂着几支歪斜吹管。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_cff624845bdb.png"
+    },
+    {
+      "item_id": "syn_l2_320d9ba63494",
+      "source_idiom": "滥竽充数",
+      "level": "L2",
+      "final_substituted_phrase": "蓝色的鱼充树",
+      "prompt_scene": "一棵树的树洞里填满了蓝色的鱼",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一棵树的树洞里填满了蓝色的鱼。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_320d9ba63494.png"
+    },
+    {
+      "item_id": "syn_l3_1893bff83139",
+      "source_idiom": "滥竽充数",
+      "level": "L3",
+      "final_substituted_phrase": "孔雀充树",
+      "prompt_scene": "一只开屏孔雀钻进树洞里，它有几根羽毛是蓝色的",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只开屏孔雀钻进树洞里，它有几根羽毛是蓝色的。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_1893bff83139.png"
+    },
+    {
+      "item_id": "syn_l4_40ce83651887",
+      "source_idiom": "滥竽充数",
+      "level": "L4",
+      "final_substituted_phrase": "孔雀充猫",
+      "prompt_scene": "孔雀戴上猫耳头箍，挤进猫窝里凑数，它有几根羽毛是蓝色的",
+      "prompt": "白底单幅中文创意插画，画幅内容是：孔雀戴上猫耳头箍，挤进猫窝里凑数，它有几根羽毛是蓝色的。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_40ce83651887.png"
+    },
+    {
+      "item_id": "syn_l1_cc1ccea05149",
+      "source_idiom": "狐假虎威",
+      "level": "L1",
+      "final_substituted_phrase": "狐假互喂",
+      "prompt_scene": "两只狐狸假装互相喂饭，但是都紧闭嘴巴不吃对方递过来的食物",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两只狐狸假装互相喂饭，但是都紧闭嘴巴不吃对方递过来的食物。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_cc1ccea05149.png"
+    },
+    {
+      "item_id": "syn_l2_ea3b1c9740a8",
+      "source_idiom": "狐假虎威",
+      "level": "L2",
+      "final_substituted_phrase": "护甲互喂",
+      "prompt_scene": "两套护甲坐在餐桌两侧，互相用勺子喂饭",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两套护甲坐在餐桌两侧，互相用勺子喂饭。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_ea3b1c9740a8.png"
+    },
+    {
+      "item_id": "syn_l3_e644b563226c",
+      "source_idiom": "狐假虎威",
+      "level": "L3",
+      "final_substituted_phrase": "渔船互喂",
+      "prompt_scene": "两艘渔船靠在水面上，互相递鱼喂对方",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两艘渔船靠在水面上，互相递鱼喂对方。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_e644b563226c.png"
+    },
+    {
+      "item_id": "syn_l4_c28b4bc674df",
+      "source_idiom": "狐假虎威",
+      "level": "L4",
+      "final_substituted_phrase": "渔船保镖",
+      "prompt_scene": "湖边渔船上站着戴墨镜的保镖，正守着船舱门",
+      "prompt": "白底单幅中文创意插画，画幅内容是：湖边渔船上站着戴墨镜的保镖，正守着船舱门。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_c28b4bc674df.png"
+    },
+    {
+      "item_id": "syn_l1_9ee3cf49330a",
+      "source_idiom": "画饼充饥",
+      "level": "L1",
+      "final_substituted_phrase": "滑冰充饥",
+      "prompt_scene": "一个人全身装备，说“好饿呀，滑一会就不饿了”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个人全身装备，说“好饿呀，滑一会就不饿了”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_9ee3cf49330a.png"
+    },
+    {
+      "item_id": "syn_l2_fe94e24245e2",
+      "source_idiom": "画饼充饥",
+      "level": "L2",
+      "final_substituted_phrase": "滑冰宠物饥",
+      "prompt_scene": "一只宠物穿着冰鞋滑过冰面，停下后捂着肚子喊饿",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只宠物穿着冰鞋滑过冰面，停下后捂着肚子喊饿。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_fe94e24245e2.png"
+    },
+    {
+      "item_id": "syn_l3_34425b14b082",
+      "source_idiom": "画饼充饥",
+      "level": "L3",
+      "final_substituted_phrase": "王濛宠物饥",
+      "prompt_scene": "名牌写“王濛”的人物给饥饿宠物递食盆",
+      "prompt": "白底单幅中文创意插画，画幅内容是：名牌写“王濛”的人物给饥饿宠物递食盆。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_34425b14b082.png"
+    },
+    {
+      "item_id": "syn_l4_5cd77ea4ad14",
+      "source_idiom": "画饼充饥",
+      "level": "L4",
+      "final_substituted_phrase": "王濛充手机",
+      "prompt_scene": "王濛名牌运动员坐在冰场长椅上，正在给手机充电",
+      "prompt": "白底单幅中文创意插画，画幅内容是：王濛名牌运动员坐在冰场长椅上，正在给手机充电。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_5cd77ea4ad14.png"
+    },
+    {
+      "item_id": "syn_l1_c9e00673dc7e",
+      "source_idiom": "程门立雪",
+      "level": "L1",
+      "final_substituted_phrase": "程门票立雪",
+      "prompt_scene": "写着“程家大院”的门票竖在雪地里，票角积着一层白雪",
+      "prompt": "白底单幅中文创意插画，画幅内容是：写着“程家大院”的门票竖在雪地里，票角积着一层白雪。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_c9e00673dc7e.png"
+    },
+    {
+      "item_id": "syn_l2_b62407a4177b",
+      "source_idiom": "程门立雪",
+      "level": "L2",
+      "final_substituted_phrase": "程门票沥血",
+      "prompt_scene": "一扇挂着“程”字牌的门前，一张票吐出几滴鲜血",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一扇挂着“程”字牌的门前，一张票吐出几滴鲜血。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_b62407a4177b.png"
+    },
+    {
+      "item_id": "syn_l3_5c24422ef594",
+      "source_idiom": "程门立雪",
+      "level": "L3",
+      "final_substituted_phrase": "代码门票立雪",
+      "prompt_scene": "印满代码的门票被夹在雪地里",
+      "prompt": "白底单幅中文创意插画，画幅内容是：印满代码的门票被夹在雪地里。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_5c24422ef594.png"
+    },
+    {
+      "item_id": "syn_l4_822b24a02076",
+      "source_idiom": "程门立雪",
+      "level": "L4",
+      "final_substituted_phrase": "代码年画立雪",
+      "prompt_scene": "雪地里立着一张写满代码的年画",
+      "prompt": "白底单幅中文创意插画，画幅内容是：雪地里立着一张写满代码的年画。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_822b24a02076.png"
+    },
+    {
+      "item_id": "syn_l1_96cb0c191950",
+      "source_idiom": "结草衔环",
+      "level": "L1",
+      "final_substituted_phrase": "结石草衔环",
+      "prompt_scene": "一个长了结石的肾压在草叶旁，小草弯着叶尖衔住圆环",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个长了结石的肾压在草叶旁，小草弯着叶尖衔住圆环。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_96cb0c191950.png"
+    },
+    {
+      "item_id": "syn_l2_e9a2c6b818aa",
+      "source_idiom": "结草衔环",
+      "level": "L2",
+      "final_substituted_phrase": "结石草衔甄嬛",
+      "prompt_scene": "长了肾结石的甄嬛名牌人物低头用草衔着圆环",
+      "prompt": "白底单幅中文创意插画，画幅内容是：长了肾结石的甄嬛名牌人物低头用草衔着圆环。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_e9a2c6b818aa.png"
+    },
+    {
+      "item_id": "syn_l3_358986c2d021",
+      "source_idiom": "结草衔环",
+      "level": "L3",
+      "final_substituted_phrase": "结石曹操衔环",
+      "prompt_scene": "长了肾结石的名牌写“曹操”的人物把圆环叼在嘴里",
+      "prompt": "白底单幅中文创意插画，画幅内容是：长了肾结石的名牌写“曹操”的人物把圆环叼在嘴里。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_358986c2d021.png"
+    },
+    {
+      "item_id": "syn_l4_dad63793e939",
+      "source_idiom": "结草衔环",
+      "level": "L4",
+      "final_substituted_phrase": "冬天曹操衔环",
+      "prompt_scene": "冬天雪地里，曹操名牌人物低头衔着一个圆环",
+      "prompt": "白底单幅中文创意插画，画幅内容是：冬天雪地里，曹操名牌人物低头衔着一个圆环。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_dad63793e939.png"
+    },
+    {
+      "item_id": "syn_l1_1e38bba74bbb",
+      "source_idiom": "罄竹难书",
+      "level": "L1",
+      "final_substituted_phrase": "青竹难书",
+      "prompt_scene": "一个人用青色的竹子在空白页上写字，纸面只有几道乱线，他感叹“好难用啊”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个人用青色的竹子在空白页上写字，纸面只有几道乱线，他感叹“好难用啊”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_1e38bba74bbb.png"
+    },
+    {
+      "item_id": "syn_l2_8c01aa0db864",
+      "source_idiom": "罄竹难书",
+      "level": "L2",
+      "final_substituted_phrase": "青竹难题书",
+      "prompt_scene": "青竹桌上摊开一本书，书页里全是打问号的难题",
+      "prompt": "白底单幅中文创意插画，画幅内容是：青竹桌上摊开一本书，书页里全是打问号的难题。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_8c01aa0db864.png"
+    },
+    {
+      "item_id": "syn_l3_9cd94ccde815",
+      "source_idiom": "罄竹难书",
+      "level": "L3",
+      "final_substituted_phrase": "宴会难题书",
+      "prompt_scene": "宴会餐桌上摊开一本书，书页中央画着大问号难题",
+      "prompt": "白底单幅中文创意插画，画幅内容是：宴会餐桌上摊开一本书，书页中央画着大问号难题。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_9cd94ccde815.png"
+    },
+    {
+      "item_id": "syn_l4_ee3aeafffa98",
+      "source_idiom": "罄竹难书",
+      "level": "L4",
+      "final_substituted_phrase": "宴会企鹅书",
+      "prompt_scene": "宴会桌边，一只企鹅翻开厚书给宾客展示",
+      "prompt": "白底单幅中文创意插画，画幅内容是：宴会桌边，一只企鹅翻开厚书给宾客展示。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_ee3aeafffa98.png"
+    },
+    {
+      "item_id": "syn_l1_7342f214f70a",
+      "source_idiom": "自相矛盾",
+      "level": "L1",
+      "final_substituted_phrase": "自相帽盾",
+      "prompt_scene": "一个人举手机给自己拍照，头上帽子撞在面前的盾牌边缘",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个人举手机给自己拍照，头上帽子撞在面前的盾牌边缘。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_7342f214f70a.png"
+    },
+    {
+      "item_id": "syn_l2_9afe45565da9",
+      "source_idiom": "自相矛盾",
+      "level": "L2",
+      "final_substituted_phrase": "照相帽盾",
+      "prompt_scene": "相机正在给一顶帽子和一面盾牌拍照，闪光灯亮起",
+      "prompt": "白底单幅中文创意插画，画幅内容是：相机正在给一顶帽子和一面盾牌拍照，闪光灯亮起。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_9afe45565da9.png"
+    },
+    {
+      "item_id": "syn_l3_6a2010353423",
+      "source_idiom": "自相矛盾",
+      "level": "L3",
+      "final_substituted_phrase": "自拍帽盾",
+      "prompt_scene": "戴帽的人举盾牌当背景，另一只手拿手机自拍",
+      "prompt": "白底单幅中文创意插画，画幅内容是：戴帽的人举盾牌当背景，另一只手拿手机自拍。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_6a2010353423.png"
+    },
+    {
+      "item_id": "syn_l4_7b56b5052c7f",
+      "source_idiom": "自相矛盾",
+      "level": "L4",
+      "final_substituted_phrase": "自拍茅台盾",
+      "prompt_scene": "一面盾牌上画着茅台酒瓶，手机架在旁边正在自拍",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一面盾牌上画着茅台酒瓶，手机架在旁边正在自拍。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_7b56b5052c7f.png"
+    },
+    {
+      "item_id": "syn_l1_5c350d54e44c",
+      "source_idiom": "舍本逐末",
+      "level": "L1",
+      "final_substituted_phrase": "舍本竹末",
+      "prompt_scene": "一本书被人丢弃，刚好挂在在竹根上",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一本书被人丢弃，刚好挂在在竹根上。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_5c350d54e44c.png"
+    },
+    {
+      "item_id": "syn_l2_f2680debab1f",
+      "source_idiom": "舍本逐末",
+      "level": "L2",
+      "final_substituted_phrase": "舍本竹沫",
+      "prompt_scene": "一本书旁放着竹筒，竹筒口不断冒出白色泡沫",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一本书旁放着竹筒，竹筒口不断冒出白色泡沫。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_f2680debab1f.png"
+    },
+    {
+      "item_id": "syn_l3_e5144c167e02",
+      "source_idiom": "舍本逐末",
+      "level": "L3",
+      "final_substituted_phrase": "舍本笋沫",
+      "prompt_scene": "一本书被搁在角落，桌上竹笋浸在一圈泡沫里",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一本书被搁在角落，桌上竹笋浸在一圈泡沫里。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_e5144c167e02.png"
+    },
+    {
+      "item_id": "syn_l4_8f1d267734e8",
+      "source_idiom": "舍本逐末",
+      "level": "L4",
+      "final_substituted_phrase": "舍本笋砚台",
+      "prompt_scene": "一本书旁放着竹笋，砚台里的墨水微微溢出",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一本书旁放着竹笋，砚台里的墨水微微溢出。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_8f1d267734e8.png"
+    },
+    {
+      "item_id": "syn_l1_cec4d3ac235d",
+      "source_idiom": "草木皆兵",
+      "level": "L1",
+      "final_substituted_phrase": "草莓木皆兵",
+      "prompt_scene": "草莓和旁边的树木都戴着小头盔，手里举着玩具长矛",
+      "prompt": "白底单幅中文创意插画，画幅内容是：草莓和旁边的树木都戴着小头盔，手里举着玩具长矛。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_cec4d3ac235d.png"
+    },
+    {
+      "item_id": "syn_l2_e2be20b7c693",
+      "source_idiom": "草木皆兵",
+      "level": "L2",
+      "final_substituted_phrase": "草莓木借兵",
+      "prompt_scene": "草莓和小树木正向路过的士兵借一支长矛",
+      "prompt": "白底单幅中文创意插画，画幅内容是：草莓和小树木正向路过的士兵借一支长矛。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_e2be20b7c693.png"
+    },
+    {
+      "item_id": "syn_l3_ada24e2f5692",
+      "source_idiom": "草木皆兵",
+      "level": "L3",
+      "final_substituted_phrase": "草莓和尚皆兵",
+      "prompt_scene": "草莓和和尚都戴着士兵头盔，站在同一排操场上",
+      "prompt": "白底单幅中文创意插画，画幅内容是：草莓和和尚都戴着士兵头盔，站在同一排操场上。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_ada24e2f5692.png"
+    },
+    {
+      "item_id": "syn_l4_c0220351d905",
+      "source_idiom": "草木皆兵",
+      "level": "L4",
+      "final_substituted_phrase": "三国和尚皆兵",
+      "prompt_scene": "三国战旗旁，一排和尚都戴上士兵头盔",
+      "prompt": "白底单幅中文创意插画，画幅内容是：三国战旗旁，一排和尚都戴上士兵头盔。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_c0220351d905.png"
+    },
+    {
+      "item_id": "syn_l1_b08b199221cd",
+      "source_idiom": "趋炎附势",
+      "level": "L1",
+      "final_substituted_phrase": "曲奇炎附势",
+      "prompt_scene": "一块曲奇饼贴在陡斜坡上，旁边小火苗烤得饼边微微发红",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一块曲奇饼贴在陡斜坡上，旁边小火苗烤得饼边微微发红。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_b08b199221cd.png"
+    },
+    {
+      "item_id": "syn_l2_e4ce7431795a",
+      "source_idiom": "趋炎附势",
+      "level": "L2",
+      "final_substituted_phrase": "曲奇宴会附势",
+      "prompt_scene": "宴会厅里，一块曲奇贴在斜坡装饰上顺势往下滑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：宴会厅里，一块曲奇贴在斜坡装饰上顺势往下滑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_e4ce7431795a.png"
+    },
+    {
+      "item_id": "syn_l3_d9c984394e98",
+      "source_idiom": "趋炎附势",
+      "level": "L3",
+      "final_substituted_phrase": "曲奇火山附势",
+      "prompt_scene": "一块曲奇粘在火山陡坡上，旁边画出上升的山势线",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一块曲奇粘在火山陡坡上，旁边画出上升的山势线。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_d9c984394e98.png"
+    },
+    {
+      "item_id": "syn_l4_c0cf61b69d91",
+      "source_idiom": "趋炎附势",
+      "level": "L4",
+      "final_substituted_phrase": "苍蝇火山附势",
+      "prompt_scene": "苍蝇贴在火山斜坡上，顺着熔岩坡慢慢下滑",
+      "prompt": "白底单幅中文创意插画，画幅内容是：苍蝇贴在火山斜坡上，顺着熔岩坡慢慢下滑。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_c0cf61b69d91.png"
+    },
+    {
+      "item_id": "syn_l1_79dad532cdcb",
+      "source_idiom": "趾高气扬",
+      "level": "L1",
+      "final_substituted_phrase": "纸稿气扬",
+      "prompt_scene": "一张纸稿被系在气球下方，随着上升气流轻轻扬到半空",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一张纸稿被系在气球下方，随着上升气流轻轻扬到半空。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_79dad532cdcb.png"
+    },
+    {
+      "item_id": "syn_l2_1eebaa3f9b59",
+      "source_idiom": "趾高气扬",
+      "level": "L2",
+      "final_substituted_phrase": "纸稿气羊",
+      "prompt_scene": "一叠纸稿在骂一只羊，羊很生气",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一叠纸稿在骂一只羊，羊很生气。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_1eebaa3f9b59.png"
+    },
+    {
+      "item_id": "syn_l3_4fcaee72813e",
+      "source_idiom": "趾高气扬",
+      "level": "L3",
+      "final_substituted_phrase": "纸稿可乐扬",
+      "prompt_scene": "一张纸稿被可乐气泡托起，在杯口上方高高扬起",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一张纸稿被可乐气泡托起，在杯口上方高高扬起。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_4fcaee72813e.png"
+    },
+    {
+      "item_id": "syn_l4_9881c1fa8440",
+      "source_idiom": "趾高气扬",
+      "level": "L4",
+      "final_substituted_phrase": "作家可乐扬",
+      "prompt_scene": "一位作家被可乐气泡托起，在杯口上方高高扬起",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一位作家被可乐气泡托起，在杯口上方高高扬起。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_9881c1fa8440.png"
+    },
+    {
+      "item_id": "syn_l1_9228c4baef61",
+      "source_idiom": "门可罗雀",
+      "level": "L1",
+      "final_substituted_phrase": "蒙克罗雀",
+      "prompt_scene": "胸前名牌写着“蒙克”的画家弯腰撒网，一只小雀被网轻轻罩住",
+      "prompt": "白底单幅中文创意插画，画幅内容是：胸前名牌写着“蒙克”的画家弯腰撒网，一只小雀被网轻轻罩住。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_9228c4baef61.png"
+    },
+    {
+      "item_id": "syn_l2_cea35b2d9884",
+      "source_idiom": "门可罗雀",
+      "level": "L2",
+      "final_substituted_phrase": "蒙克裸雀",
+      "prompt_scene": "蒙克名牌画框旁，一只没羽毛的小雀站在画架前",
+      "prompt": "白底单幅中文创意插画，画幅内容是：蒙克名牌画框旁，一只没羽毛的小雀站在画架前。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_cea35b2d9884.png"
+    },
+    {
+      "item_id": "syn_l1_2a6f5daab43c",
+      "source_idiom": "门庭若市",
+      "level": "L1",
+      "final_substituted_phrase": "门艇若市",
+      "prompt_scene": "一艘小艇停在大门前，船边挤满买菜行人，像临时集市一样热闹",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一艘小艇停在大门前，船边挤满买菜行人，像临时集市一样热闹。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_2a6f5daab43c.png"
+    },
+    {
+      "item_id": "syn_l2_f30b2a1a00f5",
+      "source_idiom": "门庭若市",
+      "level": "L2",
+      "final_substituted_phrase": "门艇若十",
+      "prompt_scene": "一扇门前停着两艘小艇，艇身交叉就像数字“十”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一扇门前停着两艘小艇，艇身交叉就像数字“十”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_f30b2a1a00f5.png"
+    },
+    {
+      "item_id": "syn_l3_5744e701e717",
+      "source_idiom": "门庭若市",
+      "level": "L3",
+      "final_substituted_phrase": "门艇眼镜",
+      "prompt_scene": "门口停着一艘小艇，船头挂着一副大眼镜",
+      "prompt": "白底单幅中文创意插画，画幅内容是：门口停着一艘小艇，船头挂着一副大眼镜。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_5744e701e717.png"
+    },
+    {
+      "item_id": "syn_l4_3f8b08ea932d",
+      "source_idiom": "门庭若市",
+      "level": "L4",
+      "final_substituted_phrase": "门亭长眼镜",
+      "prompt_scene": "门口小亭里坐着亭长，正在给一副眼镜擦镜片",
+      "prompt": "白底单幅中文创意插画，画幅内容是：门口小亭里坐着亭长，正在给一副眼镜擦镜片。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_3f8b08ea932d.png"
+    },
+    {
+      "item_id": "syn_l1_777906495eac",
+      "source_idiom": "闻鸡起舞",
+      "level": "L1",
+      "final_substituted_phrase": "纹身鸡起舞",
+      "prompt_scene": "一只身上有纹身图案的公鸡从窝边跳起，张开翅膀跳舞",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一只身上有纹身图案的公鸡从窝边跳起，张开翅膀跳舞。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_777906495eac.png"
+    },
+    {
+      "item_id": "syn_l2_5fe10e7d9744",
+      "source_idiom": "闻鸡起舞",
+      "level": "L2",
+      "final_substituted_phrase": "纹身手机起舞",
+      "prompt_scene": "贴满纹身图案的手机长出小脚，在舞台灯下跳舞",
+      "prompt": "白底单幅中文创意插画，画幅内容是：贴满纹身图案的手机长出小脚，在舞台灯下跳舞。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_5fe10e7d9744.png"
+    },
+    {
+      "item_id": "syn_l3_d8cb0765ab43",
+      "source_idiom": "闻鸡起舞",
+      "level": "L3",
+      "final_substituted_phrase": "作家手机起舞",
+      "prompt_scene": "作家在一旁写作，他的手机起身跳舞",
+      "prompt": "白底单幅中文创意插画，画幅内容是：作家在一旁写作，他的手机起身跳舞。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_d8cb0765ab43.png"
+    },
+    {
+      "item_id": "syn_l4_cc488a9128e5",
+      "source_idiom": "闻鸡起舞",
+      "level": "L4",
+      "final_substituted_phrase": "作家乐队起舞",
+      "prompt_scene": "一个名字叫“作家”的乐队站在舞台上，跟着鼓点起身跳舞",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一个名字叫“作家”的乐队站在舞台上，跟着鼓点起身跳舞。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_cc488a9128e5.png"
+    },
+    {
+      "item_id": "syn_l1_146839e11053",
+      "source_idiom": "飞扬跋扈",
+      "level": "L1",
+      "final_substituted_phrase": "飞扬拔河扈",
+      "prompt_scene": "扈三娘名牌人物和武松名牌人物拔河，被武松拉得飞起来",
+      "prompt": "白底单幅中文创意插画，画幅内容是：扈三娘和武松拔河，被武松拉得飞起来。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_146839e11053.png"
+    },
+    {
+      "item_id": "syn_l2_945fa69e76f1",
+      "source_idiom": "飞扬跋扈",
+      "level": "L2",
+      "final_substituted_phrase": "飞扬拔河护卫",
+      "prompt_scene": "两队护卫队飞在半空中，分成两边正在拔河",
+      "prompt": "白底单幅中文创意插画，画幅内容是：两队护卫队飞在半空中，分成两边正在拔河。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_945fa69e76f1.png"
+    },
+    {
+      "item_id": "syn_l3_b42a2aa0e467",
+      "source_idiom": "飞扬跋扈",
+      "level": "L3",
+      "final_substituted_phrase": "火锅拔河扈",
+      "prompt_scene": "火锅店里两队人拔河，裁判胸牌写着“扈”",
+      "prompt": "白底单幅中文创意插画，画幅内容是：火锅店里两队人拔河，裁判胸牌写着“扈”。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_b42a2aa0e467.png"
+    },
+    {
+      "item_id": "syn_l4_41143e9a7c9c",
+      "source_idiom": "飞扬跋扈",
+      "level": "L4",
+      "final_substituted_phrase": "火锅剑客扈",
+      "prompt_scene": "火锅店门口，剑客护着一块写“扈”字的门牌",
+      "prompt": "白底单幅中文创意插画，画幅内容是：火锅店门口，剑客护着一块写“扈”字的门牌。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_41143e9a7c9c.png"
+    },
+    {
+      "item_id": "syn_l1_a9bcdd1903d3",
+      "source_idiom": "鱼目混珠",
+      "level": "L1",
+      "final_substituted_phrase": "鱼目混猪",
+      "prompt_scene": "一条鱼的眼睛里映照出有很多珠子，其中混着小猪",
+      "prompt": "白底单幅中文创意插画，画幅内容是：一条鱼的眼睛里映照出有很多珠子，其中混着小猪。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_a9bcdd1903d3.png"
+    },
+    {
+      "item_id": "syn_l2_268cc63e7d11",
+      "source_idiom": "鱼目混珠",
+      "level": "L2",
+      "final_substituted_phrase": "榆木混猪",
+      "prompt_scene": "几根榆木木桩插在猪圈里，几只小猪绕着它乱转",
+      "prompt": "白底单幅中文创意插画，画幅内容是：几根榆木木桩插在猪圈里，几只小猪绕着它乱转。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_268cc63e7d11.png"
+    },
+    {
+      "item_id": "syn_l3_7b29b0009c09",
+      "source_idiom": "鱼目混珠",
+      "level": "L3",
+      "final_substituted_phrase": "笨蛋混猪",
+      "prompt_scene": "戴傻瓜帽的人在猪圈里搅拌饲料，小猪围着他转",
+      "prompt": "白底单幅中文创意插画，画幅内容是：戴傻瓜帽的人在猪圈里搅拌饲料，小猪围着他转。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_7b29b0009c09.png"
+    },
+    {
+      "item_id": "syn_l4_25deebba75ab",
+      "source_idiom": "鱼目混珠",
+      "level": "L4",
+      "final_substituted_phrase": "笨蛋混笋",
+      "prompt_scene": "戴笨蛋帽的小人把自己混进一筐竹笋里",
+      "prompt": "白底单幅中文创意插画，画幅内容是：戴笨蛋帽的小人把自己混进一筐竹笋里。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_25deebba75ab.png"
+    },
+    {
+      "item_id": "syn_l1_59b1d457fbb0",
+      "source_idiom": "黑白混淆",
+      "level": "L1",
+      "final_substituted_phrase": "黑板混淆",
+      "prompt_scene": "黑板上把苹果和钥匙的粉笔图画画到一起，箭头交叉得乱成一团",
+      "prompt": "白底单幅中文创意插画，画幅内容是：黑板上把苹果和钥匙的粉笔图画画到一起，箭头交叉得乱成一团。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l1_59b1d457fbb0.png"
+    },
+    {
+      "item_id": "syn_l2_5625ac6f6a96",
+      "source_idiom": "黑白混淆",
+      "level": "L2",
+      "final_substituted_phrase": "黑板婚礼淆",
+      "prompt_scene": "黑板前举行小婚礼，粉笔字被彩带和花瓣搅得乱七八糟",
+      "prompt": "白底单幅中文创意插画，画幅内容是：黑板前举行小婚礼，粉笔字被彩带和花瓣搅得乱七八糟。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l2_5625ac6f6a96.png"
+    },
+    {
+      "item_id": "syn_l3_026bfcb07da6",
+      "source_idiom": "黑白混淆",
+      "level": "L3",
+      "final_substituted_phrase": "黑板哪吒淆",
+      "prompt_scene": "黑板前，名牌写“哪吒”的人物把符号和图形乱连成一团",
+      "prompt": "白底单幅中文创意插画，画幅内容是：黑板前，名牌写“哪吒”的人物把符号和图形乱连成一团。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l3_026bfcb07da6.png"
+    },
+    {
+      "item_id": "syn_l4_2fea87d2940b",
+      "source_idiom": "黑白混淆",
+      "level": "L4",
+      "final_substituted_phrase": "南极哪吒淆",
+      "prompt_scene": "南极冰面上，哪吒名牌人物把彩色路标搅成一团",
+      "prompt": "白底单幅中文创意插画，画幅内容是：南极冰面上，哪吒名牌人物把彩色路标搅成一团。风格为简洁手绘画，构图清楚，主体关系一眼能看懂，如果涉及到具体人物但是特征不太明显要用小字标注名牌。 避免长段说明、分栏拼贴、杂乱背景。",
+      "image_file": "data/synthetic/images/syn_l4_2fea87d2940b.png"
+    }
+  ]
+}
