@@ -2,7 +2,7 @@
 
 This repository contains the method implementation for **Chengyu-based Cross-Concept Creative Benchmark (C4 Bench)**. It focuses on the reproducible bridge-controlled construction framework, task materialization, Hugging Face export, and deterministic scoring utilities.
 
-The complete evaluation set, including 221 images and 1,105 task-level question-answer instances, is hosted at [sci-m-wang/C4-Eval](https://huggingface.co/datasets/sci-m-wang/C4-Eval).
+The complete evaluation set, including 221 images and 1,105 task-level question-answer instances, is hosted on the Hugging Face Hub (link withheld during anonymous review).
 
 ## Contents
 
@@ -75,7 +75,7 @@ for the command and protocol details.
 ```python
 from datasets import load_dataset
 
-test = load_dataset("sci-m-wang/C4-Eval", split="test")
+test = load_dataset("anonymous/C4-Eval", split="test")
 print(test[0]["question"], test[0]["answer"])
 ```
 

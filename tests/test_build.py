@@ -50,7 +50,7 @@ def test_manifests_match_image_directories() -> None:
 
 def test_hugging_face_export_contains_task_specific_questions(tmp_path: Path) -> None:
     build_all(REPO_ROOT)
-    report = export_hf_dataset(REPO_ROOT, tmp_path, "sci-m-wang/C4-Eval")
+    report = export_hf_dataset(REPO_ROOT, tmp_path, "anonymous/C4-Eval")
     rows = [json.loads(line) for line in (tmp_path / "data/eval.jsonl").read_text(encoding="utf-8").splitlines()]
 
     assert report["task_rows"] == 1105

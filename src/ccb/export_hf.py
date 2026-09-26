@@ -114,7 +114,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Export C4 Bench as task-level Hugging Face dataset rows.")
     parser.add_argument("--repo", type=Path, default=Path.cwd(), help="Repository root")
     parser.add_argument("--output", type=Path, required=True, help="Output directory")
-    parser.add_argument("--dataset-repo", default="sci-m-wang/C4-Eval")
+    parser.add_argument("--dataset-repo", default="anonymous/C4-Eval")
     args = parser.parse_args()
     report = export_hf_dataset(args.repo.resolve(), args.output.resolve(), args.dataset_repo)
     print(report)

@@ -1,4 +1,4 @@
-dataset_path: sci-m-wang/C4-Eval
+dataset_path: anonymous/C4-Eval
 dataset_name: default
 test_split: test
 output_type: generate_until

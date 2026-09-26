@@ -2,7 +2,7 @@
 
 This task pack integrates C4 Bench with
 [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval). It loads the
-published [C4-Eval](https://huggingface.co/datasets/sci-m-wang/C4-Eval)
+published C4-Eval dataset (Hugging Face link withheld during anonymous review)
 records and downloads each original image from the Hub on first use.
 
 ## Run
