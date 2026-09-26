@@ -80,19 +80,3 @@ print(test[0]["question"], test[0]["answer"])
 ```
 
 Each row contains the image, exact question, task identifier, gold answer, aliases, candidates when applicable, difficulty metadata, and a structured explanation reference. See the dataset card for the complete schema.
-
-## Citation
-
-If you use C4 Bench in your research, please cite the arXiv preprint:
-
-```bibtex
-@misc{wang2026mllmsdecodecreativeleap,
-      title={Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding},
-      author={Ming Wang and Yuqing Zhang and Tingna Xie and Xiangju Li and Xiaocui Yang and Daling Wang and Shi Feng and Yifei Zhang},
-      year={2026},
-      eprint={2608.06501},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2608.06501},
-}
-```

@@ -34,17 +34,3 @@ conservative answer parser.
 For an official run, record the model id, backend, hardware, native context
 length, output-token setting, sampling configuration, chat template or
 reasoning overrides, task scope, sharding, and deviations from model defaults.
-
-## Citation
-
-```bibtex
-@misc{wang2026mllmsdecodecreativeleap,
-      title={Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding},
-      author={Ming Wang and Yuqing Zhang and Tingna Xie and Xiangju Li and Xiaocui Yang and Daling Wang and Shi Feng and Yifei Zhang},
-      year={2026},
-      eprint={2608.06501},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2608.06501},
-}
-```
